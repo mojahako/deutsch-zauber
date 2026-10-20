@@ -209,7 +209,7 @@ select{display:none!important}
 .cf{transition:none!important}
 .stage{height:384px}
 .stage .card{top:16px!important;height:352px!important;perspective:1100px}
-.sw{position:absolute;inset:0;border-radius:inherit;overflow:hidden;pointer-events:none;z-index:6}
+.shm{position:absolute;inset:0;border-radius:inherit;overflow:hidden;pointer-events:none;z-index:6}
 .sh{position:absolute;top:-12%;bottom:-12%;left:0;width:42%;opacity:0;background:linear-gradient(100deg,transparent,rgba(255,255,255,.6),rgba(255,214,107,.35),transparent);transform:translateX(-130%) skewX(-20deg)}
 /* ===== v24: چرخش زیبای کارت ===== */
 .stage .card{perspective:760px}
@@ -328,7 +328,7 @@ function card(){
  <span class="tag">${esc(w.category)} · ${LV(w)}${isV(w)?KS(w):''}</span>${front}<div class="sub">${sub}</div>
  <button class="speak" onclick="event.stopPropagation();say()">🔊</button>
  ${isV(w)?'<button class="gold" style="padding:8px 14px" onclick="event.stopPropagation();openV(deck[idx])">📖 جدول صرف</button>':''}</div>
- <div class="fc back"><span class="tag">${esc(w.category)} · ${LV(w)}</span><div class="fa big">${esc(w.fa)}</div><div class="sub">${esc(echo)}</div>${!isV(w)&&w.sub?`<div class="sub" style="font-size:14px">${esc(w.sub)}</div>`:''}<button class="speak" onclick="event.stopPropagation();say()">🔊</button></div></div><div class="sw"><i class="sh"></i></div>`;
+ <div class="fc back"><span class="tag">${esc(w.category)} · ${LV(w)}</span><div class="fa big">${esc(w.fa)}</div><div class="sub">${esc(echo)}</div>${!isV(w)&&w.sub?`<div class="sub" style="font-size:14px">${esc(w.sub)}</div>`:''}<button class="speak" onclick="event.stopPropagation();say()">🔊</button></div></div><div class="shm"><i class="sh"></i></div>`;
  nbs();
 }
 function flip(){const w=deck[idx],cf=$('#cf');if(!w||!cf)return;shown=!shown;
