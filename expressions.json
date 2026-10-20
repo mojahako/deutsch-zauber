@@ -610,5 +610,693 @@
     "چتر همراهت ببر!"
    ]
   ]
+ },
+ {
+  "icon": "🍽️",
+  "title": "رستوران",
+  "items": [
+   [
+    "Ein Tisch für zwei, bitte.",
+    "یک میز دونفره لطفاً."
+   ],
+   [
+    "Haben Sie reserviert?",
+    "رزرو کرده‌اید؟"
+   ],
+   [
+    "Die Speisekarte, bitte.",
+    "منو لطفاً."
+   ],
+   [
+    "Was empfehlen Sie?",
+    "چه چیزی پیشنهاد می‌کنید؟"
+   ],
+   [
+    "Ich nehme das Schnitzel.",
+    "شنیتسل می‌گیرم."
+   ],
+   [
+    "Ich hätte gern eine Suppe.",
+    "یک سوپ می‌خواهم."
+   ],
+   [
+    "Als Vorspeise nehme ich einen Salat.",
+    "به‌عنوان پیش‌غذا سالاد می‌گیرم."
+   ],
+   [
+    "Was möchten Sie trinken?",
+    "چه می‌نوشید؟"
+   ],
+   [
+    "Ein Glas Wasser, bitte.",
+    "یک لیوان آب لطفاً."
+   ],
+   [
+    "Ich bin Vegetarier.",
+    "من گیاه‌خوارم."
+   ],
+   [
+    "Ist das scharf?",
+    "این تند است؟"
+   ],
+   [
+    "Ohne Zwiebeln, bitte.",
+    "بدون پیاز لطفاً."
+   ],
+   [
+    "Das schmeckt sehr gut.",
+    "خیلی خوشمزه است."
+   ],
+   [
+    "Noch einen Kaffee, bitte.",
+    "یک قهوه‌ی دیگر لطفاً."
+   ],
+   [
+    "Die Rechnung, bitte.",
+    "صورت‌حساب لطفاً."
+   ],
+   [
+    "Getrennt oder zusammen?",
+    "جدا یا با هم؟"
+   ],
+   [
+    "Zusammen, bitte.",
+    "با هم لطفاً."
+   ],
+   [
+    "Stimmt so.",
+    "بقیه‌اش مال شما."
+   ],
+   [
+    "Kann ich mit Karte zahlen?",
+    "می‌توانم با کارت پرداخت کنم؟"
+   ],
+   [
+    "Guten Appetit!",
+    "نوش جان!"
+   ]
+  ]
+ },
+ {
+  "icon": "🩺",
+  "title": "پیش دکتر",
+  "items": [
+   [
+    "Ich habe einen Termin um zehn Uhr.",
+    "ساعت ده نوبت دارم."
+   ],
+   [
+    "Ich fühle mich nicht gut.",
+    "حالم خوب نیست."
+   ],
+   [
+    "Ich habe Kopfschmerzen.",
+    "سردرد دارم."
+   ],
+   [
+    "Mir tut der Bauch weh.",
+    "دلم درد می‌کند."
+   ],
+   [
+    "Ich habe Fieber.",
+    "تب دارم."
+   ],
+   [
+    "Seit wann haben Sie das?",
+    "از کی این را دارید؟"
+   ],
+   [
+    "Seit drei Tagen.",
+    "از سه روز پیش."
+   ],
+   [
+    "Ich bin erkältet.",
+    "سرما خورده‌ام."
+   ],
+   [
+    "Ich habe Husten und Schnupfen.",
+    "سرفه و آبریزش بینی دارم."
+   ],
+   [
+    "Ich bin allergisch gegen Penicillin.",
+    "به پنی‌سیلین حساسیت دارم."
+   ],
+   [
+    "Ich muss mich untersuchen lassen.",
+    "باید معاینه شوم."
+   ],
+   [
+    "Machen Sie bitte den Mund auf.",
+    "لطفاً دهانتان را باز کنید."
+   ],
+   [
+    "Atmen Sie tief ein.",
+    "عمیق نفس بکشید."
+   ],
+   [
+    "Sie müssen im Bett bleiben.",
+    "باید در تخت بمانید."
+   ],
+   [
+    "Ich schreibe Ihnen ein Rezept.",
+    "برایتان نسخه می‌نویسم."
+   ],
+   [
+    "Nehmen Sie die Tabletten dreimal täglich.",
+    "قرص‌ها را روزی سه بار بخورید."
+   ],
+   [
+    "Brauche ich eine Krankschreibung?",
+    "گواهی استعلاجی لازم دارم؟"
+   ],
+   [
+    "Wo ist die nächste Apotheke?",
+    "نزدیک‌ترین داروخانه کجاست؟"
+   ],
+   [
+    "Gute Besserung!",
+    "زودتر خوب شوید!"
+   ],
+   [
+    "Ich brauche einen Krankenwagen!",
+    "آمبولانس لازم دارم!"
+   ]
+  ]
+ },
+ {
+  "icon": "🏨",
+  "title": "هتل",
+  "items": [
+   [
+    "Ich habe ein Zimmer reserviert.",
+    "اتاق رزرو کرده‌ام."
+   ],
+   [
+    "Haben Sie ein Zimmer frei?",
+    "اتاق خالی دارید؟"
+   ],
+   [
+    "Ein Einzelzimmer für zwei Nächte.",
+    "یک اتاق یک‌نفره برای دو شب."
+   ],
+   [
+    "Wie viel kostet das Zimmer pro Nacht?",
+    "اتاق شبی چند است؟"
+   ],
+   [
+    "Ist das Frühstück inklusive?",
+    "صبحانه شامل است؟"
+   ],
+   [
+    "Wann gibt es Frühstück?",
+    "صبحانه ساعت چند است؟"
+   ],
+   [
+    "Hier ist mein Pass.",
+    "این گذرنامه‌ام است."
+   ],
+   [
+    "Das ist Ihr Schlüssel.",
+    "این کلید شماست."
+   ],
+   [
+    "Das Zimmer liegt im dritten Stock.",
+    "اتاق در طبقه‌ی سوم است."
+   ],
+   [
+    "Gibt es WLAN?",
+    "وای‌فای دارید؟"
+   ],
+   [
+    "Wie ist das Passwort?",
+    "رمزش چیست؟"
+   ],
+   [
+    "Die Heizung funktioniert nicht.",
+    "بخاری کار نمی‌کند."
+   ],
+   [
+    "Ich brauche ein Handtuch.",
+    "حوله لازم دارم."
+   ],
+   [
+    "Das Zimmer ist zu laut.",
+    "اتاق خیلی پرسروصداست."
+   ],
+   [
+    "Können Sie mir ein Taxi bestellen?",
+    "می‌توانید برایم تاکسی بگیرید؟"
+   ],
+   [
+    "Wann muss ich auschecken?",
+    "کی باید چک‌اوت کنم؟"
+   ],
+   [
+    "Kann ich meinen Koffer hierlassen?",
+    "می‌توانم چمدانم را اینجا بگذارم؟"
+   ],
+   [
+    "Ich möchte noch eine Nacht bleiben.",
+    "می‌خواهم یک شب دیگر بمانم."
+   ],
+   [
+    "Die Rechnung, bitte.",
+    "صورت‌حساب لطفاً."
+   ],
+   [
+    "Vielen Dank für Ihren Aufenthalt.",
+    "از اقامتتان ممنونیم."
+   ]
+  ]
+ },
+ {
+  "icon": "🚕",
+  "title": "تاکسی و رانندگی",
+  "items": [
+   [
+    "Ich brauche ein Taxi.",
+    "تاکسی لازم دارم."
+   ],
+   [
+    "Zum Bahnhof, bitte.",
+    "به ایستگاه قطار لطفاً."
+   ],
+   [
+    "Wie lange dauert die Fahrt?",
+    "رفتن چقدر طول می‌کشد؟"
+   ],
+   [
+    "Wie viel kostet das ungefähr?",
+    "تقریباً چقدر می‌شود؟"
+   ],
+   [
+    "Fahren Sie bitte langsamer.",
+    "لطفاً آهسته‌تر برانید."
+   ],
+   [
+    "Halten Sie bitte hier.",
+    "لطفاً اینجا نگه دارید."
+   ],
+   [
+    "Biegen Sie hier links ab.",
+    "اینجا به چپ بپیچید."
+   ],
+   [
+    "Das ist die falsche Richtung.",
+    "این جهت اشتباه است."
+   ],
+   [
+    "Ich steige hier aus.",
+    "اینجا پیاده می‌شوم."
+   ],
+   [
+    "Stimmt so.",
+    "بقیه مال شما."
+   ],
+   [
+    "Können Sie mir eine Quittung geben?",
+    "می‌توانید رسید بدهید؟"
+   ],
+   [
+    "Wo ist die nächste Tankstelle?",
+    "نزدیک‌ترین پمپ بنزین کجاست؟"
+   ],
+   [
+    "Volltanken, bitte.",
+    "پر کنید لطفاً."
+   ],
+   [
+    "Mein Auto ist kaputt.",
+    "ماشینم خراب شده."
+   ],
+   [
+    "Der Reifen ist platt.",
+    "لاستیک پنچر است."
+   ],
+   [
+    "Wo ist die nächste Werkstatt?",
+    "نزدیک‌ترین تعمیرگاه کجاست؟"
+   ],
+   [
+    "Ich habe einen Unfall gesehen.",
+    "تصادفی دیدم."
+   ],
+   [
+    "Darf ich hier parken?",
+    "اجازه هست اینجا پارک کنم؟"
+   ],
+   [
+    "Wo kann ich parken?",
+    "کجا می‌توانم پارک کنم؟"
+   ],
+   [
+    "Gute Fahrt!",
+    "سفر خوبی داشته باشید!"
+   ]
+  ]
+ },
+ {
+  "icon": "👗",
+  "title": "خرید لباس",
+  "items": [
+   [
+    "Ich suche eine Jacke.",
+    "دنبال یک ژاکت می‌گردم."
+   ],
+   [
+    "Haben Sie das in Größe M?",
+    "این را در سایز M دارید؟"
+   ],
+   [
+    "Welche Größe haben Sie?",
+    "چه سایزی هستید؟"
+   ],
+   [
+    "Kann ich das anprobieren?",
+    "می‌توانم این را پرو کنم؟"
+   ],
+   [
+    "Wo ist die Umkleidekabine?",
+    "اتاق پرو کجاست؟"
+   ],
+   [
+    "Das passt mir nicht.",
+    "این اندازه‌ام نیست."
+   ],
+   [
+    "Das ist zu groß.",
+    "این خیلی بزرگ است."
+   ],
+   [
+    "Das ist zu klein.",
+    "این خیلی کوچک است."
+   ],
+   [
+    "Haben Sie das eine Nummer größer?",
+    "یک سایز بزرگ‌تر دارید؟"
+   ],
+   [
+    "Haben Sie das in einer anderen Farbe?",
+    "رنگ دیگری دارید؟"
+   ],
+   [
+    "Die Farbe steht mir gut.",
+    "این رنگ به من می‌آید."
+   ],
+   [
+    "Das gefällt mir sehr.",
+    "خیلی دوستش دارم."
+   ],
+   [
+    "Wie viel kostet die Hose?",
+    "شلوار چقدر است؟"
+   ],
+   [
+    "Gibt es einen Rabatt?",
+    "تخفیف دارد؟"
+   ],
+   [
+    "Das ist im Angebot.",
+    "این حراج است."
+   ],
+   [
+    "Ich nehme es.",
+    "این را می‌گیرم."
+   ],
+   [
+    "Ich möchte das umtauschen.",
+    "می‌خواهم این را تعویض کنم."
+   ],
+   [
+    "Hier ist der Kassenbon.",
+    "این رسید است."
+   ],
+   [
+    "Kann ich das zurückgeben?",
+    "می‌توانم پس بدهم؟"
+   ],
+   [
+    "Brauchen Sie eine Tüte?",
+    "کیسه لازم دارید؟"
+   ]
+  ]
+ },
+ {
+  "icon": "🛒",
+  "title": "سوپرمارکت",
+  "items": [
+   [
+    "Wo finde ich die Milch?",
+    "شیر را کجا پیدا کنم؟"
+   ],
+   [
+    "Haben Sie frisches Brot?",
+    "نان تازه دارید؟"
+   ],
+   [
+    "Ich brauche einen Einkaufswagen.",
+    "چرخ خرید لازم دارم."
+   ],
+   [
+    "Ein Kilo Äpfel, bitte.",
+    "یک کیلو سیب لطفاً."
+   ],
+   [
+    "Zweihundert Gramm Käse, bitte.",
+    "دویست گرم پنیر لطفاً."
+   ],
+   [
+    "Wie viel kostet ein Liter Milch?",
+    "یک لیتر شیر چقدر است؟"
+   ],
+   [
+    "Haben Sie etwas Günstigeres?",
+    "ارزان‌تر دارید؟"
+   ],
+   [
+    "Ist das frisch?",
+    "این تازه است؟"
+   ],
+   [
+    "Bis wann ist das haltbar?",
+    "تا کی ماندگار است؟"
+   ],
+   [
+    "Ich bezahle bar.",
+    "نقدی پرداخت می‌کنم."
+   ],
+   [
+    "Mit Karte, bitte.",
+    "با کارت لطفاً."
+   ],
+   [
+    "Ich habe meine eigene Tasche dabei.",
+    "کیف خودم را آورده‌ام."
+   ],
+   [
+    "Wo ist die Kasse?",
+    "صندوق کجاست؟"
+   ],
+   [
+    "Die Kasse ist dort hinten.",
+    "صندوق آن پشت است."
+   ],
+   [
+    "Hier ist Ihr Wechselgeld.",
+    "این هم باقی پول شما."
+   ],
+   [
+    "Können Sie das bitte wiegen?",
+    "می‌توانید این را وزن کنید؟"
+   ],
+   [
+    "Haben Sie auch Bio-Produkte?",
+    "محصولات ارگانیک هم دارید؟"
+   ],
+   [
+    "Das ist im Sonderangebot.",
+    "این تخفیف ویژه دارد."
+   ],
+   [
+    "Ich brauche noch Eier.",
+    "هنوز تخم‌مرغ لازم دارم."
+   ],
+   [
+    "Schönen Tag noch!",
+    "روز خوبی داشته باشید!"
+   ]
+  ]
+ },
+ {
+  "icon": "🏦",
+  "title": "بانک و پست",
+  "items": [
+   [
+    "Ich möchte ein Konto eröffnen.",
+    "می‌خواهم حساب باز کنم."
+   ],
+   [
+    "Ich möchte Geld abheben.",
+    "می‌خواهم پول برداشت کنم."
+   ],
+   [
+    "Ich möchte Geld einzahlen.",
+    "می‌خواهم پول واریز کنم."
+   ],
+   [
+    "Wo ist der Geldautomat?",
+    "خودپرداز کجاست؟"
+   ],
+   [
+    "Der Automat nimmt meine Karte nicht.",
+    "دستگاه کارتم را قبول نمی‌کند."
+   ],
+   [
+    "Ich habe meine Karte verloren.",
+    "کارتم را گم کرده‌ام."
+   ],
+   [
+    "Ich möchte Geld überweisen.",
+    "می‌خواهم پول حواله کنم."
+   ],
+   [
+    "Wie hoch ist die Gebühr?",
+    "کارمزد چقدر است؟"
+   ],
+   [
+    "Wie ist der Wechselkurs?",
+    "نرخ ارز چقدر است؟"
+   ],
+   [
+    "Ich möchte Euro wechseln.",
+    "می‌خواهم یورو تبدیل کنم."
+   ],
+   [
+    "Wo ist die Post?",
+    "پست کجاست؟"
+   ],
+   [
+    "Ich möchte einen Brief schicken.",
+    "می‌خواهم نامه بفرستم."
+   ],
+   [
+    "Wie viel kostet das Porto?",
+    "هزینه‌ی پست چقدر است؟"
+   ],
+   [
+    "Eine Briefmarke, bitte.",
+    "یک تمبر لطفاً."
+   ],
+   [
+    "Ich möchte ein Paket abholen.",
+    "می‌خواهم بسته‌ای را تحویل بگیرم."
+   ],
+   [
+    "Wann kommt das Paket an?",
+    "بسته کی می‌رسد؟"
+   ],
+   [
+    "Per Einschreiben, bitte.",
+    "سفارشی لطفاً."
+   ],
+   [
+    "Bitte füllen Sie dieses Formular aus.",
+    "لطفاً این فرم را پر کنید."
+   ],
+   [
+    "Unterschreiben Sie hier, bitte.",
+    "اینجا امضا کنید لطفاً."
+   ],
+   [
+    "Haben Sie einen Ausweis dabei?",
+    "کارت شناسایی همراه دارید؟"
+   ]
+  ]
+ },
+ {
+  "icon": "🏠",
+  "title": "اجاره‌ی خانه",
+  "items": [
+   [
+    "Ich suche eine Wohnung.",
+    "دنبال آپارتمان می‌گردم."
+   ],
+   [
+    "Wie viele Zimmer hat die Wohnung?",
+    "آپارتمان چند اتاق دارد؟"
+   ],
+   [
+    "Wie groß ist die Wohnung?",
+    "آپارتمان چند متر است؟"
+   ],
+   [
+    "Wie hoch ist die Miete?",
+    "اجاره چقدر است؟"
+   ],
+   [
+    "Sind die Nebenkosten inklusive?",
+    "هزینه‌های جانبی شامل است؟"
+   ],
+   [
+    "Wie hoch ist die Kaution?",
+    "ودیعه چقدر است؟"
+   ],
+   [
+    "Ist die Wohnung möbliert?",
+    "آپارتمان مبله است؟"
+   ],
+   [
+    "Wann kann ich einziehen?",
+    "کی می‌توانم نقل‌مکان کنم؟"
+   ],
+   [
+    "Darf man Haustiere halten?",
+    "می‌شود حیوان خانگی نگه داشت؟"
+   ],
+   [
+    "Gibt es einen Aufzug?",
+    "آسانسور دارد؟"
+   ],
+   [
+    "Gibt es einen Keller?",
+    "زیرزمین دارد؟"
+   ],
+   [
+    "Kann ich die Wohnung besichtigen?",
+    "می‌توانم آپارتمان را ببینم؟"
+   ],
+   [
+    "Die Wohnung gefällt mir sehr.",
+    "آپارتمان را خیلی دوست دارم."
+   ],
+   [
+    "Ich nehme die Wohnung.",
+    "آپارتمان را می‌گیرم."
+   ],
+   [
+    "Ich brauche einen Mietvertrag.",
+    "قرارداد اجاره لازم دارم."
+   ],
+   [
+    "Die Heizung ist kaputt.",
+    "بخاری خراب است."
+   ],
+   [
+    "Das Wasser tropft.",
+    "آب چکه می‌کند."
+   ],
+   [
+    "Wer ist der Hausmeister?",
+    "سرایدار کیست؟"
+   ],
+   [
+    "Ich möchte kündigen.",
+    "می‌خواهم قرارداد را فسخ کنم."
+   ],
+   [
+    "Wo ist die nächste Haltestelle?",
+    "نزدیک‌ترین ایستگاه کجاست؟"
+   ]
+  ]
  }
 ]

@@ -216,6 +216,9 @@ select{display:none!important}
 .cf{transition:none!important}
 .fc{border-radius:36px/52px}
 .fc.back{background:linear-gradient(160deg,rgba(110,78,220,.55),rgba(60,40,150,.35))}
+.art.pl,.pl{color:#ff9f43;text-shadow:0 0 10px rgba(255,159,67,.5)}
+.ddm{overscroll-behavior:contain;touch-action:pan-y;max-height:60vh}
+.ddi{white-space:normal}
 </style>
 </head>
 <body>
@@ -294,7 +297,7 @@ Promise.all([fetch('words.json',{cache:'no-cache'}).then(r=>r.json()),fetch('ver
 
 function init(){
  const cats=[...new Set(ALL.map(w=>w.category))];
- const opt=(l,a)=>`<option value="">${l}</option>`+a.map(c=>`<option>${esc(c)}</option>`).join('');
+ const opt=(l,a)=>`<option value="">${l}</option>`+a.map(c=>`<option value="${esc(c)}">${esc(c)} (${ALL.filter(w=>w.category===c).length})</option>`).join('');
  $('#fc').innerHTML=opt('همه دسته‌ها',cats);
  $('#dc').innerHTML=opt('همه دسته‌ها',cats);
  $('#qc').innerHTML=opt('همه دسته‌ها',cats);
@@ -309,7 +312,7 @@ function baseDeck(){const c=$('#fc').value,a=$('#fa').value;return ALL.filter(w=
 function smartDeck(b){const n=Date.now();return b.filter(w=>L[key(w)]&&L[key(w)].t<=n).sort((x,y)=>L[key(x)].b-L[key(y)].b).concat(b.filter(w=>!L[key(w)]).slice(0,15))}
 function mk(){const b=baseDeck();deck=$('#fm').value==='smart'?smartDeck(b):b}
 function smartLabel(){const o=$('#fm').options[1];if(o)o.textContent='🧠 مرور هوشمند ('+smartDeck(baseDeck()).length+')'}
-function nbs(){[-2,-1,1,2].forEach(k=>{const e=$('#n'+k);if(!e)return;const w=deck.length>1?deck[((idx+k)%deck.length+deck.length)%deck.length]:null;e.innerHTML=w?`<div class="cf"><div class="fc front"><span class="de${isV(w)?' vb':''}">${!isV(w)&&w.article?`<span class="art ${w.article}">${w.article}</span> `:''}${esc(w.word)}</span></div></div>`:'';e.style.visibility=w?'visible':'hidden'})}
+function nbs(){[-2,-1,1,2].forEach(k=>{const e=$('#n'+k);if(!e)return;const w=deck.length>1?deck[((idx+k)%deck.length+deck.length)%deck.length]:null;e.innerHTML=w?`<div class="cf"><div class="fc front"><span class="de${isV(w)?' vb':''}">${!isV(w)&&w.article?`<span class="art ${w.pl?'pl':w.article}">${w.article}</span> `:''}${esc(w.word)}</span></div></div>`:'';e.style.visibility=w?'visible':'hidden'})}
 function card(){
  window.ddSync&&ddSync();
  const el=$('#card'),w=deck[idx];shown=false;
@@ -320,8 +323,8 @@ function card(){
   front=`<span class="de vb">${esc(w.word)}</span>`;
   sub=`${esc(strip(w.indikativ.praesens.er_sie_es))} · ${esc(strip(w.indikativ.praeteritum.er_sie_es))} · ${esc(strip(w.indikativ.perfekt.er_sie_es))}`;
  }else{
-  front=`<span class="de">${w.bg?`<i class="sw" style="background:${w.bg}"></i>`:''}${w.article?`<span class="art ${w.article}">${w.article}</span> `:''}${esc(w.word)}</span>`;
-  sub=w.sub?esc(w.sub):w.article?(w.plural&&w.plural!=='-'?`Plural: die ${esc(w.plural)}`:'Plural: —'):'';
+  front=`<span class="de">${w.bg?`<i class="sw" style="background:${w.bg}"></i>`:''}${w.article?`<span class="art ${w.pl?'pl':w.article}">${w.article}</span> `:''}${esc(w.word)}</span>`;
+  sub=w.sub?esc(w.sub):w.article?(w.plural&&w.plural!=='-'?`Plural: <span class="pl">die</span> ${esc(w.plural)}`:(w.pl?'<span class="pl">فقط جمع</span>':'Plural: —')):'';
  }
  const echo=(isV(w)||!w.article?'':w.article+' ')+w.word;
  el.innerHTML=`<div class="cf" id="cf"><div class="fc front"><span class="cnt">${idx+1} / ${deck.length}${st?' · '+({k:'✅',r:'🔁',h:'💪'}[st]):''}</span>
@@ -392,7 +395,7 @@ try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')
   b.onclick=e=>{e.stopPropagation();cur===s?close():open(s,b)};
  });
  document.addEventListener('click',e=>{if(!M.contains(e.target))close()});
- addEventListener('scroll',close,true);addEventListener('resize',close);
+ addEventListener('scroll',e=>{if(!M.contains(e.target))close()},true);addEventListener('resize',close);
 })();
 function step(d){if(!deck.length)return;idx=(idx+d+deck.length)%deck.length;card()}
 function shuf(){for(let i=deck.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[deck[i],deck[j]]=[deck[j],deck[i]]}idx=0;card()}
@@ -408,7 +411,7 @@ function dict(){
  const r=ALL.filter(w=>(!c||w.category===c)&&lvOK($('#dl').value,w)&&(!q||w.word.toLowerCase().includes(q)||w.fa.includes(q)||(w.plural||'').toLowerCase().includes(q)));
  $('#dn').textContent=r.length+' واژه';
  $('#list').innerHTML=r.slice(0,300).map(w=>{const i=ALL.indexOf(w);
-  const b=isV(w)?'<span class="art vb" style="font-size:14px">فعل</span>':w.article?`<span class="art ${w.article}" style="font-size:16px">${w.article}</span>`:(w.bg?`<i class="sw" style="background:${w.bg}"></i>`:`<span class="art vb" style="font-size:14px">${esc(w.tag||'کلمه')}</span>`);
+  const b=isV(w)?'<span class="art vb" style="font-size:14px">فعل</span>':w.article?`<span class="art ${w.pl?'pl':w.article}" style="font-size:16px">${w.article}</span>`:(w.bg?`<i class="sw" style="background:${w.bg}"></i>`:`<span class="art vb" style="font-size:14px">${esc(w.tag||'کلمه')}</span>`);
   return `<div class="glass item" onclick="pick(${i})"><i class="dot ${P[key(w)]||''}"></i>${b}<b>${esc(w.word)}</b><small class="lv">${LV(w)}</small><span class="f">${esc(w.fa)}</span></div>`}).join('')
   +(r.length>300?'<div class="empty">برای دیدن بقیه جستجو کن…</div>':'');
 }
