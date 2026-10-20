@@ -205,6 +205,17 @@ select{display:none!important}
 .ddi{padding:13px 16px;margin:3px 0;border-radius:16px;color:#fff;font-weight:600;font-size:16px;cursor:pointer;text-align:start}
 .ddi:active{background:rgba(255,255,255,.18)}
 .ddi.on{background:linear-gradient(180deg,#fff0a8,#ffc13b);color:#4a2a00;font-weight:800;box-shadow:0 3px 0 #b97b12}
+/* ===== v24: چرخش قشنگ کارت ===== */
+.cf{transition:none!important}
+.stage{height:384px}
+.stage .card{top:16px!important;height:352px!important;perspective:1100px}
+.sw{position:absolute;inset:0;border-radius:inherit;overflow:hidden;pointer-events:none;z-index:6}
+.sh{position:absolute;top:-12%;bottom:-12%;left:0;width:42%;opacity:0;background:linear-gradient(100deg,transparent,rgba(255,255,255,.6),rgba(255,214,107,.35),transparent);transform:translateX(-130%) skewX(-20deg)}
+/* ===== v24: چرخش زیبای کارت ===== */
+.stage .card{perspective:760px}
+.cf{transition:none!important}
+.fc{border-radius:36px/52px}
+.fc.back{background:linear-gradient(160deg,rgba(110,78,220,.55),rgba(60,40,150,.35))}
 </style>
 </head>
 <body>
@@ -317,10 +328,16 @@ function card(){
  <span class="tag">${esc(w.category)} · ${LV(w)}${isV(w)?KS(w):''}</span>${front}<div class="sub">${sub}</div>
  <button class="speak" onclick="event.stopPropagation();say()">🔊</button>
  ${isV(w)?'<button class="gold" style="padding:8px 14px" onclick="event.stopPropagation();openV(deck[idx])">📖 جدول صرف</button>':''}</div>
- <div class="fc back"><span class="tag">${esc(w.category)} · ${LV(w)}</span><div class="fa big">${esc(w.fa)}</div><div class="sub">${esc(echo)}</div>${!isV(w)&&w.sub?`<div class="sub" style="font-size:14px">${esc(w.sub)}</div>`:''}<button class="speak" onclick="event.stopPropagation();say()">🔊</button></div></div>`;
+ <div class="fc back"><span class="tag">${esc(w.category)} · ${LV(w)}</span><div class="fa big">${esc(w.fa)}</div><div class="sub">${esc(echo)}</div>${!isV(w)&&w.sub?`<div class="sub" style="font-size:14px">${esc(w.sub)}</div>`:''}<button class="speak" onclick="event.stopPropagation();say()">🔊</button></div></div><div class="sw"><i class="sh"></i></div>`;
  nbs();
 }
-function flip(){const w=deck[idx],cf=$('#cf');if(!w||!cf)return;shown=!shown;cf.classList.toggle('flip',shown)}
+function flip(){const w=deck[idx],cf=$('#cf');if(!w||!cf)return;shown=!shown;
+ const to=shown?180:0,from=shown?0:180,mid=(from+to)/2;
+ if(cf._a)cf._a.cancel();
+ if(cf.animate){cf._a=cf.animate([{transform:`rotateY(${from}deg) translateZ(0px) scale(1)`},{transform:`rotateY(${mid}deg) translateZ(110px) scale(1.09)`,offset:.5},{transform:`rotateY(${to}deg) translateZ(0px) scale(1)`}],{duration:780,easing:'cubic-bezier(.45,.08,.2,1)'})}
+ cf.style.transform=`rotateY(${to}deg)`;
+ if(cf.querySelectorAll)cf.querySelectorAll('.fc').forEach(f=>f.animate&&f.animate([{boxShadow:'0 0 0 rgba(255,214,107,0)'},{boxShadow:'0 0 48px rgba(255,214,107,.6)',offset:.5},{boxShadow:'0 0 0 rgba(255,214,107,0)'}],{duration:780,easing:'ease-in-out'}));
+ const sh=document.querySelector('#card .sh');if(sh&&sh.animate)sh.animate([{opacity:0,transform:'translateX(-130%) skewX(-20deg)'},{opacity:.95,offset:.5},{opacity:0,transform:'translateX(260%) skewX(-20deg)'}],{duration:780,easing:'ease-in-out'})}
 $('#card').onclick=flip;
 try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')}catch(_){}
 (function(){
