@@ -226,6 +226,12 @@ select{display:none!important}
 .ddm::-webkit-scrollbar{width:10px}.ddm::-webkit-scrollbar-track{background:rgba(255,255,255,.1);border-radius:10px}.ddm::-webkit-scrollbar-thumb{background:linear-gradient(180deg,#fff0a8,#ffb830);border-radius:10px;border:2px solid #1a1458}
 .ddn{position:sticky;bottom:0;z-index:3;display:flex;gap:10px;justify-content:center;padding:8px 0 4px;background:linear-gradient(180deg,rgba(26,20,88,0),#1a1458 45%)}
 .ddn button{padding:6px 26px;font-size:15px;box-shadow:0 3px 0 #b97b12,0 5px 8px #0006,inset 0 2px 0 #ffffffaa;color:#4a2a00;background:linear-gradient(180deg,#fff0a8,#ffc13b)}
+.ddbar{position:fixed;width:7px;z-index:10000;border-radius:7px;background:rgba(255,255,255,.2);pointer-events:none}
+.ddbar[hidden]{display:none}
+.ddbar i{position:absolute;left:0;right:0;border-radius:7px;background:linear-gradient(180deg,#fff0a8,#ffc13b);box-shadow:0 0 10px rgba(255,214,107,.8)}
+.ddm{padding-right:20px}
+.ddn{position:sticky;bottom:2px;display:flex;gap:10px;justify-content:center;padding:14px 0 4px;background:linear-gradient(rgba(26,20,88,0),rgba(26,20,88,.97) 45%)}
+.ddn button{width:44px;height:44px;padding:0;border-radius:50%;font-size:18px}
 </style>
 </head>
 <body>
@@ -384,9 +390,12 @@ try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')
 /* منوی کشویی سفارشی (آبنباتی) به‌جای منوی سفیدِ خود مرورگر */
 (function(){
  const M=document.createElement('div');M.className='ddm';M.hidden=true;document.body.append(M);let cur=null;
+ const B=document.createElement('div');B.className='ddbar';B.hidden=true;const T=document.createElement('i');B.append(T);document.body.append(B);
+ function bar(){if(M.hidden){B.hidden=true;return}const sh=M.scrollHeight,ch=M.clientHeight;if(sh<=ch+4){B.hidden=true;return}const r=M.getBoundingClientRect(),H=r.height-20,th=Math.max(40,ch/sh*H);B.hidden=false;B.style.top=(r.top+10)+'px';B.style.left=(r.right-13)+'px';B.style.height=H+'px';T.style.height=th+'px';T.style.top=(M.scrollTop/(sh-ch))*(H-th)+'px'}
+ M.addEventListener('scroll',bar);
  const lab=s=>{const o=s.options[s.selectedIndex];return o?o.textContent:''};
  window.ddSync=()=>document.querySelectorAll('select').forEach(s=>{if(s._b)s._b.firstChild.textContent=lab(s)});
- const close=()=>{M.hidden=true;cur=null;document.querySelectorAll('.ddb.open').forEach(b=>b.classList.remove('open'))};
+ const close=()=>{M.hidden=true;B.hidden=true;cur=null;document.querySelectorAll('.ddb.open').forEach(b=>b.classList.remove('open'))};
  window.ddClose=close;
  function open(s,b){
   cur=s;M.innerHTML='';
@@ -407,6 +416,7 @@ try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')
   M.style.width=r.width+'px';M.style.left=Math.max(6,r.left)+'px';M.style.maxHeight=Math.min(440,up?above:below)+'px';
   if(up){M.style.top='auto';M.style.bottom=(innerHeight-r.top+6)+'px'}else{M.style.bottom='auto';M.style.top=(r.bottom+6)+'px'}
   b.classList.add('open');const on=M.querySelector('.on');if(on)M.scrollTop=on.offsetTop-M.clientHeight/2+on.offsetHeight/2;
+  setTimeout(bar,30);
  }
  document.querySelectorAll('select').forEach(s=>{
   const b=document.createElement('div');b.className='ddb';b.innerHTML='<span></span><i>▾</i>';
