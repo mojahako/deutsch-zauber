@@ -26,6 +26,62 @@
    [
     "Bis später! / Bis morgen!",
     "تا بعد! / تا فردا!"
+   ],
+   [
+    "Guten Morgen!",
+    "صبح بخیر!"
+   ],
+   [
+    "Gute Nacht!",
+    "شب بخیر!"
+   ],
+   [
+    "Schönen Tag noch!",
+    "روز خوبی داشته باشید!"
+   ],
+   [
+    "Schönes Wochenende!",
+    "آخر هفته‌ی خوبی داشته باشید!"
+   ],
+   [
+    "Wie geht es Ihnen?",
+    "حال شما چطور است؟"
+   ],
+   [
+    "Mir geht es gut, danke.",
+    "حالم خوب است، ممنون."
+   ],
+   [
+    "Es geht so.",
+    "بد نیستم (متوسط)."
+   ],
+   [
+    "Nicht so gut.",
+    "زیاد خوب نیستم."
+   ],
+   [
+    "Lange nicht gesehen!",
+    "مدت‌ها بود ندیده بودمت!"
+   ],
+   [
+    "Was gibt es Neues?",
+    "چه خبر؟"
+   ],
+   [
+    "Alles klar?",
+    "همه‌چیز روبه‌راه است؟"
+   ],
+   [
+    "Bis bald!",
+    "به‌زودی می‌بینمت!"
+   ],
+   [
+    "Mach's gut!",
+    "خوش باشی!"
+   ],
+   [
+    "Bis nächste Woche!",
+    "تا هفته‌ی بعد!"
    ]
   ]
  },
@@ -60,6 +116,58 @@
    [
     "Wie heißen Sie? / Woher kommen Sie?",
     "اسم شما چیست؟ / اهل کجا هستید؟"
+   ],
+   [
+    "Darf ich mich vorstellen?",
+    "اجازه هست خودم را معرفی کنم؟"
+   ],
+   [
+    "Das ist meine Freundin Delnaz.",
+    "این دوستم دلناز است."
+   ],
+   [
+    "Das ist mein Freund Danyar.",
+    "این دوستم دانیار است."
+   ],
+   [
+    "Wie alt bist du?",
+    "چند سالته؟"
+   ],
+   [
+    "Was machst du beruflich?",
+    "شغلت چیست؟"
+   ],
+   [
+    "Ich bin Student.",
+    "من دانشجو هستم."
+   ],
+   [
+    "Ich arbeite als Ingenieur.",
+    "من مهندس هستم."
+   ],
+   [
+    "Ich bin verheiratet.",
+    "من متأهلم."
+   ],
+   [
+    "Ich bin ledig.",
+    "من مجردم."
+   ],
+   [
+    "Ich habe zwei Kinder.",
+    "من دو فرزند دارم."
+   ],
+   [
+    "Ich lerne seit einem Jahr Deutsch.",
+    "یک سال است آلمانی یاد می‌گیرم."
+   ],
+   [
+    "Wo wohnst du?",
+    "کجا زندگی می‌کنی؟"
+   ],
+   [
+    "Schön, Sie kennenzulernen.",
+    "از آشنایی با شما خوشحالم."
    ]
   ]
  },
@@ -82,6 +190,70 @@
    [
     "Nichts zu danken.",
     "قابلی ندارد."
+   ],
+   [
+    "Vielen herzlichen Dank!",
+    "بسیار سپاسگزارم!"
+   ],
+   [
+    "Tausend Dank!",
+    "هزار بار ممنون!"
+   ],
+   [
+    "Danke für Ihre Hilfe.",
+    "ممنون از کمکتان."
+   ],
+   [
+    "Danke für die Einladung.",
+    "ممنون از دعوت."
+   ],
+   [
+    "Danke für das Geschenk.",
+    "ممنون از هدیه."
+   ],
+   [
+    "Das ist sehr nett von Ihnen.",
+    "از شما خیلی لطف است."
+   ],
+   [
+    "Ich bin Ihnen sehr dankbar.",
+    "خیلی ازتان سپاسگزارم."
+   ],
+   [
+    "Danke, das ist lieb.",
+    "ممنون، لطف داری."
+   ],
+   [
+    "Danke im Voraus!",
+    "پیشاپیش ممنون!"
+   ],
+   [
+    "Keine Ursache!",
+    "قابلی ندارد!"
+   ],
+   [
+    "Es war mir ein Vergnügen.",
+    "باعث خوشحالی من بود."
+   ],
+   [
+    "Danke, gleichfalls!",
+    "ممنون، شما هم!"
+   ],
+   [
+    "Danke, das war sehr hilfreich.",
+    "ممنون، خیلی کمک‌کننده بود."
+   ],
+   [
+    "Danke für Ihre Zeit.",
+    "ممنون از وقتتان."
+   ],
+   [
+    "Gern geschehen!",
+    "خواهش می‌کنم!"
+   ],
+   [
+    "Nichts zu danken!",
+    "جای تشکر نیست!"
    ]
   ]
  },
@@ -116,6 +288,58 @@
    [
     "Wie schreibt man das?",
     "این را چطور می‌نویسند؟"
+   ],
+   [
+    "Entschuldigung, ich habe das nicht verstanden.",
+    "ببخشید، متوجه نشدم."
+   ],
+   [
+    "Noch einmal, bitte.",
+    "یک بار دیگر، لطفاً."
+   ],
+   [
+    "Langsamer, bitte.",
+    "آهسته‌تر، لطفاً."
+   ],
+   [
+    "Können Sie das erklären?",
+    "می‌توانید این را توضیح دهید؟"
+   ],
+   [
+    "Was heißt das auf Persisch?",
+    "این به فارسی چه می‌شود؟"
+   ],
+   [
+    "Wie bitte? Ich habe Sie nicht gehört.",
+    "ببخشید؟ نشنیدم."
+   ],
+   [
+    "Können Sie das buchstabieren?",
+    "می‌توانید هجی کنید؟"
+   ],
+   [
+    "Ich spreche noch nicht gut Deutsch.",
+    "هنوز خوب آلمانی صحبت نمی‌کنم."
+   ],
+   [
+    "Sprechen Sie Englisch?",
+    "انگلیسی صحبت می‌کنید؟"
+   ],
+   [
+    "Können Sie das aufschreiben?",
+    "می‌توانید این را بنویسید؟"
+   ],
+   [
+    "Ich verstehe das Wort nicht.",
+    "این کلمه را نمی‌فهمم."
+   ],
+   [
+    "Habe ich das richtig verstanden?",
+    "درست فهمیدم؟"
+   ],
+   [
+    "Entschuldigung, können Sie das noch einmal sagen?",
+    "ببخشید، می‌توانید یک بار دیگر بگویید؟"
    ]
   ]
  },
@@ -146,6 +370,62 @@
    [
     "Ist es weit von hier?",
     "از اینجا دور است؟"
+   ],
+   [
+    "Entschuldigung, wie komme ich zum Museum?",
+    "ببخشید، چطور به موزه برسم؟"
+   ],
+   [
+    "Wo ist die nächste Bank?",
+    "نزدیک‌ترین بانک کجاست؟"
+   ],
+   [
+    "Gehen Sie die erste Straße links.",
+    "اولین خیابان را به چپ بروید."
+   ],
+   [
+    "Gehen Sie die zweite Straße rechts.",
+    "دومین خیابان را به راست بروید."
+   ],
+   [
+    "Gehen Sie bis zur Ampel.",
+    "تا چراغ راهنما بروید."
+   ],
+   [
+    "Gehen Sie über die Straße.",
+    "از خیابان رد شوید."
+   ],
+   [
+    "An der Kreuzung biegen Sie links ab.",
+    "سر چهارراه به چپ بپیچید."
+   ],
+   [
+    "Es ist ungefähr fünf Minuten zu Fuß.",
+    "حدود پنج دقیقه پیاده است."
+   ],
+   [
+    "Sie können den Bus nehmen.",
+    "می‌توانید اتوبوس سوار شوید."
+   ],
+   [
+    "Es ist direkt um die Ecke.",
+    "درست همین گوشه است."
+   ],
+   [
+    "Es ist neben der Post.",
+    "کنار پست است."
+   ],
+   [
+    "Es ist gegenüber vom Bahnhof.",
+    "روبه‌روی ایستگاه است."
+   ],
+   [
+    "Ich habe mich verlaufen.",
+    "گم شده‌ام."
+   ],
+   [
+    "Können Sie mir das auf der Karte zeigen?",
+    "می‌توانید روی نقشه نشانم دهید؟"
    ]
   ]
  },
@@ -202,6 +482,66 @@
    [
     "Kann ich mit Karte zahlen?",
     "می‌توانم با کارت پرداخت کنم؟"
+   ],
+   [
+    "Wie viel kostet das?",
+    "این چقدر است؟"
+   ],
+   [
+    "Was kostet ein Kilo Äpfel?",
+    "کیلویی سیب چند است؟"
+   ],
+   [
+    "Wie viel macht das zusammen?",
+    "جمعاً چقدر می‌شود؟"
+   ],
+   [
+    "Das ist günstig.",
+    "این ارزان است."
+   ],
+   [
+    "Das ist mir zu teuer.",
+    "این برایم خیلی گران است."
+   ],
+   [
+    "Haben Sie etwas Billigeres?",
+    "چیز ارزان‌تری دارید؟"
+   ],
+   [
+    "Gibt es Sonderangebote?",
+    "تخفیف ویژه دارید؟"
+   ],
+   [
+    "Ist das im Angebot?",
+    "این تخفیف دارد؟"
+   ],
+   [
+    "Kann ich bar bezahlen?",
+    "می‌توانم نقد بپردازم؟"
+   ],
+   [
+    "Nehmen Sie Kreditkarten?",
+    "کارت اعتباری قبول می‌کنید؟"
+   ],
+   [
+    "Haben Sie Wechselgeld?",
+    "پول خرد دارید؟"
+   ],
+   [
+    "Kann ich eine Quittung haben?",
+    "می‌توانم رسید بگیرم؟"
+   ],
+   [
+    "Die Rechnung stimmt nicht.",
+    "صورت‌حساب درست نیست."
+   ],
+   [
+    "Inklusive Mehrwertsteuer?",
+    "با مالیات بر ارزش افزوده؟"
+   ],
+   [
+    "Ich möchte bezahlen.",
+    "می‌خواهم پرداخت کنم."
    ]
   ]
  },
@@ -302,6 +642,66 @@
    [
     "Ich habe ein Problem.",
     "من مشکلی دارم."
+   ],
+   [
+    "Ich brauche Ihre Hilfe.",
+    "به کمک شما نیاز دارم."
+   ],
+   [
+    "Können Sie mir das zeigen?",
+    "می‌توانید این را نشانم دهید؟"
+   ],
+   [
+    "Könnten Sie das bitte wiederholen?",
+    "لطفاً می‌توانید تکرار کنید؟"
+   ],
+   [
+    "Helfen Sie mir bitte!",
+    "لطفاً کمکم کنید!"
+   ],
+   [
+    "Können Sie mir einen Tipp geben?",
+    "می‌توانید راهنمایی کنید؟"
+   ],
+   [
+    "Wissen Sie, wo …?",
+    "می‌دانید … کجاست؟"
+   ],
+   [
+    "Können Sie mein Gepäck tragen?",
+    "می‌توانید چمدانم را ببرید؟"
+   ],
+   [
+    "Ich komme nicht weiter.",
+    "گیر کرده‌ام."
+   ],
+   [
+    "Ich verstehe das Formular nicht.",
+    "فرم را نمی‌فهمم."
+   ],
+   [
+    "Können Sie das für mich ausfüllen?",
+    "می‌توانید این را برایم پر کنید؟"
+   ],
+   [
+    "Können Sie das für mich übersetzen?",
+    "می‌توانید این را برایم ترجمه کنید؟"
+   ],
+   [
+    "Wo kann ich Hilfe bekommen?",
+    "از کجا کمک بگیرم؟"
+   ],
+   [
+    "Vielen Dank für Ihre Hilfe!",
+    "ممنون از کمکتان!"
+   ],
+   [
+    "Könnten Sie mir bitte die Tür aufhalten?",
+    "لطفاً در را برایم باز نگه دارید؟"
+   ],
+   [
+    "Entschuldigung, können Sie mir kurz helfen?",
+    "ببخشید، می‌توانید یک لحظه کمکم کنید؟"
    ]
   ]
  },
@@ -328,6 +728,66 @@
    [
     "Das ist eine gute Idee.",
     "ایده‌ی خوبی است."
+   ],
+   [
+    "Selbstverständlich!",
+    "بدیهی است!"
+   ],
+   [
+    "Gern!",
+    "با میل!"
+   ],
+   [
+    "Mit Vergnügen!",
+    "با کمال میل!"
+   ],
+   [
+    "Das mache ich sofort.",
+    "همین الان انجامش می‌دهم."
+   ],
+   [
+    "Ja, das geht.",
+    "بله، می‌شود."
+   ],
+   [
+    "Kein Problem, das erledige ich.",
+    "مشکلی نیست، انجامش می‌دهم."
+   ],
+   [
+    "Einverstanden!",
+    "موافقم!"
+   ],
+   [
+    "Abgemacht!",
+    "قرار شد!"
+   ],
+   [
+    "In Ordnung.",
+    "باشه؛ مشکلی نیست."
+   ],
+   [
+    "Das ist kein Problem.",
+    "مشکلی نیست."
+   ],
+   [
+    "Sehr gerne, wann passt es Ihnen?",
+    "با کمال میل، کِی برای شما مناسب است؟"
+   ],
+   [
+    "Ja, ich helfe Ihnen gern.",
+    "بله، با میل کمکتان می‌کنم."
+   ],
+   [
+    "Gute Idee, machen wir das!",
+    "ایده‌ی خوبی است، انجام بدهیم!"
+   ],
+   [
+    "Ja, bitte.",
+    "بله، بفرمایید."
+   ],
+   [
+    "Aber gern!",
+    "البته با میل!"
    ]
   ]
  },
@@ -354,6 +814,66 @@
    [
     "Ich habe leider keine Zeit.",
     "متأسفانه وقت ندارم."
+   ],
+   [
+    "Leider nicht möglich.",
+    "متأسفانه ممکن نیست."
+   ],
+   [
+    "Das kann ich leider nicht machen.",
+    "متأسفانه نمی‌توانم این کار را بکنم."
+   ],
+   [
+    "Tut mir leid, das ist nicht möglich.",
+    "متأسفم، ممکن نیست."
+   ],
+   [
+    "Heute passt es mir nicht.",
+    "امروز برایم مناسب نیست."
+   ],
+   [
+    "Ich möchte das lieber nicht.",
+    "ترجیح می‌دهم نه."
+   ],
+   [
+    "Nein, das will ich nicht.",
+    "نه، نمی‌خواهم."
+   ],
+   [
+    "Da muss ich leider absagen.",
+    "متأسفانه باید لغو کنم."
+   ],
+   [
+    "Ich bin leider nicht einverstanden.",
+    "متأسفانه موافق نیستم."
+   ],
+   [
+    "Das ist nicht erlaubt.",
+    "این مجاز نیست."
+   ],
+   [
+    "Ich kann Ihnen leider nicht helfen.",
+    "متأسفانه نمی‌توانم کمکتان کنم."
+   ],
+   [
+    "Vielleicht ein anderes Mal.",
+    "شاید یک بار دیگر."
+   ],
+   [
+    "Nein, auf keinen Fall.",
+    "نه، به هیچ‌وجه."
+   ],
+   [
+    "Nein, das ist nicht nötig.",
+    "نه، لازم نیست."
+   ],
+   [
+    "Das ist schon vergeben.",
+    "این قبلاً داده/رزرو شده."
+   ],
+   [
+    "Dafür habe ich keine Zeit.",
+    "برای آن وقت ندارم."
    ]
   ]
  },
@@ -388,6 +908,58 @@
    [
     "Auf Wiederhören!",
     "خداحافظ! (تلفنی)"
+   ],
+   [
+    "Guten Tag, mein Name ist …",
+    "روز بخیر، اسم من … است."
+   ],
+   [
+    "Worum geht es, bitte?",
+    "موضوع چیست؟"
+   ],
+   [
+    "Ich rufe wegen … an.",
+    "من درباره‌ی … زنگ می‌زنم."
+   ],
+   [
+    "Ich verbinde Sie.",
+    "وصلتان می‌کنم."
+   ],
+   [
+    "Bleiben Sie bitte in der Leitung.",
+    "لطفاً پشت خط بمانید."
+   ],
+   [
+    "Die Leitung ist besetzt.",
+    "خط مشغول است."
+   ],
+   [
+    "Können Sie bitte lauter sprechen?",
+    "لطفاً بلندتر صحبت کنید؟"
+   ],
+   [
+    "Die Verbindung ist schlecht.",
+    "اتصال بد است."
+   ],
+   [
+    "Ich habe Sie nicht verstanden.",
+    "شما را نفهمیدم."
+   ],
+   [
+    "Können Sie mich bitte zurückrufen?",
+    "لطفاً با من تماس بگیرید؟"
+   ],
+   [
+    "Meine Nummer ist …",
+    "شماره‌ی من … است."
+   ],
+   [
+    "Wann kann ich Sie erreichen?",
+    "کِی می‌توانم با شما تماس بگیرم؟"
+   ],
+   [
+    "Danke für Ihren Anruf.",
+    "ممنون از تماستان."
    ]
   ]
  },
@@ -418,6 +990,62 @@
    [
     "Es tut mir leid, ich kann nicht kommen.",
     "متأسفم، نمی‌توانم بیایم."
+   ],
+   [
+    "Wann hast du Zeit?",
+    "کِی وقت داری؟"
+   ],
+   [
+    "Wo treffen wir uns?",
+    "کجا همدیگر را ببینیم؟"
+   ],
+   [
+    "Treffen wir uns um sieben Uhr.",
+    "ساعت هفت همدیگر را ببینیم."
+   ],
+   [
+    "Ich hole dich ab.",
+    "می‌آیم دنبالت."
+   ],
+   [
+    "Passt dir Montag?",
+    "دوشنبه برایت مناسب است؟"
+   ],
+   [
+    "Das passt mir gut.",
+    "برایم مناسب است."
+   ],
+   [
+    "Das passt mir leider nicht.",
+    "متأسفانه برایم مناسب نیست."
+   ],
+   [
+    "Können wir uns später treffen?",
+    "می‌توانیم بعداً همدیگر را ببینیم؟"
+   ],
+   [
+    "Ich komme etwas später.",
+    "کمی دیرتر می‌آیم."
+   ],
+   [
+    "Ich verspäte mich.",
+    "دیر می‌رسم."
+   ],
+   [
+    "Bis gleich!",
+    "تا چند لحظه‌ی دیگر!"
+   ],
+   [
+    "Ich habe den Termin vergessen.",
+    "قرار را فراموش کردم."
+   ],
+   [
+    "Können wir einen neuen Termin machen?",
+    "می‌توانیم قرار تازه‌ای بگذاریم؟"
+   ],
+   [
+    "Entschuldigen Sie die Verspätung.",
+    "ببخشید بابت تأخیر."
    ]
   ]
  },
@@ -544,40 +1172,6 @@
   ]
  },
  {
-  "icon": "☀️",
-  "title": "صحبت درباره‌ی هوا",
-  "items": [
-   [
-    "Wie ist das Wetter heute?",
-    "هوا امروز چطور است؟"
-   ],
-   [
-    "Die Sonne scheint.",
-    "آفتاب است."
-   ],
-   [
-    "Es regnet. / Es schneit.",
-    "باران می‌بارد. / برف می‌بارد."
-   ],
-   [
-    "Es ist windig / kalt / heiß.",
-    "باد می‌آید / سرد است / گرم است."
-   ],
-   [
-    "Wie viel Grad sind es?",
-    "چند درجه است؟"
-   ],
-   [
-    "Es hat zwanzig Grad.",
-    "بیست درجه است."
-   ],
-   [
-    "Morgen wird es regnen.",
-    "فردا باران خواهد آمد."
-   ]
-  ]
- },
- {
   "icon": "⛅",
   "title": "آب‌وهوا",
   "items": [
@@ -608,6 +1202,58 @@
    [
     "Nimm einen Regenschirm mit!",
     "چتر همراهت ببر!"
+   ],
+   [
+    "Es ist windig / kalt / heiß.",
+    "باد می‌آید / سرد است / گرم است."
+   ],
+   [
+    "Wie viel Grad sind es?",
+    "چند درجه است؟"
+   ],
+   [
+    "Es hat zwanzig Grad.",
+    "بیست درجه است."
+   ],
+   [
+    "Morgen wird es regnen.",
+    "فردا باران خواهد آمد."
+   ],
+   [
+    "Heute ist es sonnig.",
+    "امروز آفتابی است."
+   ],
+   [
+    "Es regnet in Strömen.",
+    "سیل‌آسا باران می‌بارد."
+   ],
+   [
+    "Es ist bewölkt.",
+    "ابری است."
+   ],
+   [
+    "Es ist neblig.",
+    "مه‌آلود است."
+   ],
+   [
+    "Es ist sehr heiß.",
+    "خیلی گرم است."
+   ],
+   [
+    "Es ist eiskalt.",
+    "سرد یخی است."
+   ],
+   [
+    "Es ist windig.",
+    "بادی است."
+   ],
+   [
+    "Es gibt ein Gewitter.",
+    "رعدوبرق است."
+   ],
+   [
+    "Morgen soll es schneien.",
+    "فردا قرار است برف ببارد."
    ]
   ]
  },
@@ -1296,6 +1942,436 @@
    [
     "Wo ist die nächste Haltestelle?",
     "نزدیک‌ترین ایستگاه کجاست؟"
+   ]
+  ]
+ },
+ {
+  "icon": "🚕",
+  "title": "تاکسی و حمل‌ونقل شهری",
+  "items": [
+   [
+    "Ich brauche ein Taxi.",
+    "تاکسی می‌خواهم."
+   ],
+   [
+    "Zum Hauptbahnhof, bitte.",
+    "به ایستگاه مرکزی، لطفاً."
+   ],
+   [
+    "Wie lange dauert die Fahrt?",
+    "سفر چقدر طول می‌کشد؟"
+   ],
+   [
+    "Was kostet das ungefähr?",
+    "تقریباً چقدر می‌شود؟"
+   ],
+   [
+    "Bitte halten Sie hier.",
+    "لطفاً همین‌جا نگه دارید."
+   ],
+   [
+    "Können Sie auf mich warten?",
+    "می‌توانید منتظرم بمانید؟"
+   ],
+   [
+    "Bitte fahren Sie langsamer.",
+    "لطفاً آهسته‌تر برانید."
+   ],
+   [
+    "Welche Linie fährt zum Flughafen?",
+    "کدام خط به فرودگاه می‌رود؟"
+   ],
+   [
+    "Wo kann ich ein Ticket kaufen?",
+    "کجا می‌توانم بلیت بخرم؟"
+   ],
+   [
+    "Einmal Tageskarte, bitte.",
+    "یک بلیت روزانه، لطفاً."
+   ],
+   [
+    "Muss ich das Ticket entwerten?",
+    "باید بلیت را باطل کنم؟"
+   ],
+   [
+    "Entschuldigung, ist hier noch frei?",
+    "ببخشید، اینجا خالی است؟"
+   ],
+   [
+    "Der Zug hat Verspätung.",
+    "قطار تأخیر دارد."
+   ],
+   [
+    "Der Bus ist ausgefallen.",
+    "اتوبوس لغو شده."
+   ],
+   [
+    "Wann kommt der nächste Bus?",
+    "اتوبوس بعدی کی می‌رسد؟"
+   ],
+   [
+    "Welche Haltestelle ist das?",
+    "این کدام ایستگاه است؟"
+   ],
+   [
+    "Ich muss hier aussteigen.",
+    "باید اینجا پیاده شوم."
+   ],
+   [
+    "Ich habe meinen Zug verpasst.",
+    "قطارم را از دست دادم."
+   ],
+   [
+    "Wo ist der Taxistand?",
+    "ایستگاه تاکسی کجاست؟"
+   ],
+   [
+    "Gute Fahrt!",
+    "سفر خوش!"
+   ]
+  ]
+ },
+ {
+  "icon": "🏢",
+  "title": "تلفن با اداره و شرکت",
+  "items": [
+   [
+    "Guten Tag, ich möchte mit der Personalabteilung sprechen.",
+    "روز بخیر، می‌خواهم با منابع انسانی صحبت کنم."
+   ],
+   [
+    "Ich rufe wegen meiner Bewerbung an.",
+    "درباره‌ی درخواست شغلی‌ام زنگ می‌زنم."
+   ],
+   [
+    "Mit wem spreche ich bitte?",
+    "با چه کسی صحبت می‌کنم؟"
+   ],
+   [
+    "Könnten Sie mich bitte mit Frau Müller verbinden?",
+    "لطفاً مرا به خانم مولر وصل کنید؟"
+   ],
+   [
+    "Wie ist die Durchwahl?",
+    "شماره‌ی داخلی چند است؟"
+   ],
+   [
+    "Ich habe einen Termin um zehn Uhr.",
+    "ساعت ده قرار دارم."
+   ],
+   [
+    "Ich möchte einen Termin vereinbaren.",
+    "می‌خواهم قرار بگذارم."
+   ],
+   [
+    "Wann sind Sie erreichbar?",
+    "کِی در دسترس هستید؟"
+   ],
+   [
+    "Wann ist Herr Schmidt wieder im Büro?",
+    "آقای اشمیت کِی به دفتر برمی‌گردد؟"
+   ],
+   [
+    "Er ist gerade in einer Besprechung.",
+    "او الان در جلسه است."
+   ],
+   [
+    "Sie ist im Urlaub.",
+    "او در مرخصی است."
+   ],
+   [
+    "Kann er mich zurückrufen?",
+    "می‌تواند با من تماس بگیرد؟"
+   ],
+   [
+    "Ich schicke Ihnen eine E-Mail.",
+    "برایتان ایمیل می‌فرستم."
+   ],
+   [
+    "Haben Sie meine E-Mail bekommen?",
+    "ایمیلم را دریافت کردید؟"
+   ],
+   [
+    "Ich brauche eine Auskunft.",
+    "اطلاعات می‌خواهم."
+   ],
+   [
+    "Können Sie mir die Adresse geben?",
+    "می‌توانید آدرس را بدهید؟"
+   ],
+   [
+    "Bis wann ist das Büro geöffnet?",
+    "دفتر تا کِی باز است؟"
+   ],
+   [
+    "Ich buchstabiere meinen Namen.",
+    "اسمم را هجی می‌کنم."
+   ],
+   [
+    "Ich melde mich morgen noch einmal.",
+    "فردا دوباره تماس می‌گیرم."
+   ],
+   [
+    "Vielen Dank, auf Wiederhören!",
+    "خیلی ممنون، خداحافظ!"
+   ]
+  ]
+ },
+ {
+  "icon": "📱",
+  "title": "پیام صوتی و پیام‌گیر",
+  "items": [
+   [
+    "Sie haben die Mailbox von … erreicht.",
+    "به پیام‌گیر … وصل شده‌اید."
+   ],
+   [
+    "Bitte hinterlassen Sie eine Nachricht.",
+    "لطفاً پیام بگذارید."
+   ],
+   [
+    "Bitte sprechen Sie nach dem Signalton.",
+    "لطفاً بعد از صدای بوق صحبت کنید."
+   ],
+   [
+    "Hier spricht Delsa.",
+    "من دلسا هستم (در پیام صوتی)."
+   ],
+   [
+    "Ich rufe Sie wegen … an.",
+    "درباره‌ی … با شما تماس می‌گیرم."
+   ],
+   [
+    "Bitte rufen Sie mich zurück.",
+    "لطفاً با من تماس بگیرید."
+   ],
+   [
+    "Meine Nummer lautet …",
+    "شماره‌ام … است."
+   ],
+   [
+    "Ich wiederhole meine Nummer: …",
+    "شماره‌ام را تکرار می‌کنم: …"
+   ],
+   [
+    "Es ist nicht dringend.",
+    "فوری نیست."
+   ],
+   [
+    "Es ist sehr dringend.",
+    "خیلی فوری است."
+   ],
+   [
+    "Ich bin bis fünf Uhr erreichbar.",
+    "تا ساعت پنج در دسترسم."
+   ],
+   [
+    "Ich versuche es später noch einmal.",
+    "بعداً دوباره امتحان می‌کنم."
+   ],
+   [
+    "Danke und einen schönen Tag!",
+    "ممنون و روز خوبی داشته باشید!"
+   ],
+   [
+    "Ich bin gerade nicht erreichbar.",
+    "الان در دسترس نیستم."
+   ],
+   [
+    "Ich rufe zurück, sobald ich kann.",
+    "به محض اینکه بتوانم تماس می‌گیرم."
+   ],
+   [
+    "Ich habe Ihren Anruf verpasst.",
+    "تماس شما را از دست دادم."
+   ],
+   [
+    "Sie haben mich angerufen?",
+    "با من تماس گرفته بودید؟"
+   ],
+   [
+    "Entschuldigung, ich war nicht erreichbar.",
+    "ببخشید، در دسترس نبودم."
+   ],
+   [
+    "Ich schreibe Ihnen eine Nachricht.",
+    "برایتان پیام می‌نویسم."
+   ],
+   [
+    "Auf Wiederhören!",
+    "خداحافظ! (تلفنی)"
+   ]
+  ]
+ },
+ {
+  "icon": "📞",
+  "title": "تلفن برای وقت دکتر",
+  "items": [
+   [
+    "Guten Tag, ich möchte einen Termin vereinbaren.",
+    "روز بخیر، می‌خواهم وقت بگیرم."
+   ],
+   [
+    "Ich habe starke Schmerzen.",
+    "درد شدید دارم."
+   ],
+   [
+    "Haben Sie heute noch einen Termin frei?",
+    "امروز وقت خالی دارید؟"
+   ],
+   [
+    "Der nächste freie Termin ist am Dienstag.",
+    "نزدیک‌ترین وقت خالی سه‌شنبه است."
+   ],
+   [
+    "Um wie viel Uhr?",
+    "ساعت چند؟"
+   ],
+   [
+    "Passt Ihnen 9 Uhr?",
+    "ساعت ۹ برایتان خوب است؟"
+   ],
+   [
+    "Das passt mir gut.",
+    "برایم مناسب است."
+   ],
+   [
+    "Haben Sie einen früheren Termin?",
+    "وقت زودتری دارید؟"
+   ],
+   [
+    "Ich bin neu hier.",
+    "من بیمار جدید هستم."
+   ],
+   [
+    "Ich bin privat versichert.",
+    "بیمه‌ی خصوصی دارم."
+   ],
+   [
+    "Ich bin gesetzlich versichert.",
+    "بیمه‌ی عمومی دارم."
+   ],
+   [
+    "Muss ich meine Gesundheitskarte mitbringen?",
+    "باید کارت سلامت را بیاورم؟"
+   ],
+   [
+    "Ich muss den Termin leider verschieben.",
+    "متأسفانه باید وقت را عقب بیندازم."
+   ],
+   [
+    "Ich muss den Termin absagen.",
+    "باید وقت را لغو کنم."
+   ],
+   [
+    "Es ist ein Notfall.",
+    "اورژانسی است."
+   ],
+   [
+    "Wie lange muss ich warten?",
+    "چقدر باید منتظر بمانم؟"
+   ],
+   [
+    "Wo finde ich Ihre Praxis?",
+    "مطب شما کجاست؟"
+   ],
+   [
+    "Gibt es Parkplätze?",
+    "جای پارک هست؟"
+   ],
+   [
+    "Ich komme mit meinem Kind.",
+    "با فرزندم می‌آیم."
+   ],
+   [
+    "Vielen Dank, bis Dienstag!",
+    "ممنون، تا سه‌شنبه!"
+   ]
+  ]
+ },
+ {
+  "icon": "👯",
+  "title": "تلفن با دوست",
+  "items": [
+   [
+    "Hallo Danyar, hier ist Delsa!",
+    "الو دانیار، دلسا هستم!"
+   ],
+   [
+    "Hast du gerade Zeit?",
+    "الان وقت داری؟"
+   ],
+   [
+    "Störe ich dich?",
+    "مزاحمم؟"
+   ],
+   [
+    "Ich wollte dich fragen, ob …",
+    "می‌خواستم بپرسم که آیا …"
+   ],
+   [
+    "Was machst du gerade?",
+    "الان چه می‌کنی؟"
+   ],
+   [
+    "Wie geht's dir?",
+    "حالت چطور است؟"
+   ],
+   [
+    "Lange nicht gehört!",
+    "مدت‌ها بود صدایت را نشنیده بودم!"
+   ],
+   [
+    "Hast du am Wochenende Zeit?",
+    "آخر هفته وقت داری؟"
+   ],
+   [
+    "Wollen wir uns treffen?",
+    "می‌خواهیم همدیگر را ببینیم؟"
+   ],
+   [
+    "Ich rufe dich später zurück.",
+    "بعداً زنگ می‌زنم."
+   ],
+   [
+    "Ich bin gerade unterwegs.",
+    "الان بیرونم (در راهم)."
+   ],
+   [
+    "Ich kann gerade nicht sprechen.",
+    "الان نمی‌توانم صحبت کنم."
+   ],
+   [
+    "Kannst du mich später anrufen?",
+    "می‌توانی بعداً زنگ بزنی؟"
+   ],
+   [
+    "Ich höre dich schlecht.",
+    "صدایت خوب نمی‌آید."
+   ],
+   [
+    "Die Verbindung ist weg.",
+    "خط قطع شد."
+   ],
+   [
+    "Ich habe kaum Empfang.",
+    "آنتن ندارم."
+   ],
+   [
+    "Ich schreibe dir gleich.",
+    "همین الان برایت پیام می‌دهم."
+   ],
+   [
+    "Grüß deine Familie von mir!",
+    "سلامم را به خانواده‌ات برسان!"
+   ],
+   [
+    "Ich muss jetzt Schluss machen.",
+    "باید الان قطع کنم."
+   ],
+   [
+    "Bis bald, tschüss!",
+    "به‌زودی، خداحافظ!"
    ]
   ]
  }
