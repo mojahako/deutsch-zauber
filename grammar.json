@@ -1,141 +1,62 @@
 [
   {
+    "m": 1,
     "n": 1,
-    "t": "حروف تعریف معین و نامعین (Bestimmte und unbestimmte Artikel)",
+    "t": "حروف تعریف (Bestimmte Artikel)",
     "lv": "A1",
     "pts": [
-      "der/die/das برای معرفه",
-      "ein/eine برای نكره",
-      "حالت منفی با kein/keine"
+      "der برای اسامی مذکر",
+      "die برای اسامی مؤنث و جمع",
+      "das برای اسامی خنثی"
     ],
     "ex": [
-      "Das ist ein Buch.",
-      "Das ist kein Tisch.",
-      "Wo ist der Schlüssel?"
+      "der Mann (مرد)",
+      "die Frau (زن)",
+      "das Kind (کودک)"
     ]
   },
   {
+    "m": 1,
     "n": 2,
-    "t": "صرف افعال باقاعده در زمان حال (Präsens)",
+    "t": "زمان حال ساده (Präsens)",
     "lv": "A1",
     "pts": [
       "حذف en از انتهای فعل",
-      "افزودن پسوندهای ich(-e), du(-st), er/sie/es(-t), wir(-en), ihr(-t), sie/Sie(-en)"
+      "افزودن پسوندهای شخصی"
     ],
     "ex": [
-      "lernen: ich lerne, du lernst, er lernt",
-      "wohnen: wir wohnen, ihr wohnt"
+      "lernen -> ich lerne, du lernst",
+      "wohnen -> er wohnt"
     ]
   },
   {
+    "m": 1,
     "n": 3,
-    "t": "جملات پرسشی W-Fragen و Ja/Nein-Fragen",
+    "t": "ساعت و زمان (Uhrzeit)",
     "lv": "A1",
     "pts": [
-      "کلمات پرسشی با حرف W (Wer, Was, Wo, Woher, Wie)",
-      "جملات بله/خیر با فعل در جایگاه اول"
+      "پرسش زمان با Wie viel Uhr ist es?",
+      "استفاده از Halb و Viertel"
     ],
     "ex": [
-      "Wie heißt du?",
-      "Woher kommst du?",
-      "Kommen Sie aus Iran? - Ja, ich komme aus Iran."
-    ]
+      "Es ist drei Uhr.",
+      "Es ist viertel nach drei."
+    ],
+    "vis": "clock"
   },
   {
+    "m": 2,
     "n": 4,
-    "t": "اسامی جمع در زبان آلمانی (Plural)",
-    "lv": "A1",
-    "pts": [
-      "جمع بستن اسامی با پسوندهای مختلف (e, er, en, n, s یا بدون تغییر)",
-      "حرف تعریف جمع همیشه die است"
-    ],
-    "ex": [
-      "der Tisch -> die Tische",
-      "das Kind -> die Kinder",
-      "die Frau -> die Frauen"
-    ]
-  },
-  {
-    "n": 5,
-    "t": "حالت مفعولی مستقیم (Akkusativ)",
+    "t": "حروف اضافه مکانی (Präpositionen)",
     "lv": "A2",
     "pts": [
-      "فقط حرف تعریف مذکر (der) به den تبدیل می‌شود",
-      "der -> den / ein -> einen",
-      "die و das و جمع بدون تغییر می‌مانند"
+      "نشان دادن موقعیت اشیاء",
+      "کاربرد در حالت داتیو و آکوزاتیو"
     ],
     "ex": [
-      "Ich sehe den Mann.",
-      "Er sucht einen Hund.",
-      "Wir kaufen das Auto."
-    ]
-  },
-  {
-    "n": 6,
-    "t": "افعال وجهی (Modalverben: können, wollen, müssen, möchten)",
-    "lv": "A2",
-    "pts": [
-      "فعل وجهی در جایگاه دوم صرف می‌شود",
-      "فعل اصلی با معنی کامل به صورت مصدر (Infinitiv) به انتهای جمله می‌رود"
+      "Das Buch liegt auf dem Tisch.",
+      "Der Hund ist unter dem Tisch."
     ],
-    "ex": [
-      "Ich kann Deutsch sprechen.",
-      "Möchtest du einen Kaffee trinken?",
-      "Wir müssen jetzt arbeiten."
-    ]
-  },
-  {
-    "n": 7,
-    "t": "زمان گذشته ساده (Präteritum برای sein و haben)",
-    "lv": "A2",
-    "pts": [
-      "فعل sein: war, warst, war, waren, wart, waren",
-      "فعل haben: hatte, hattest, hatte, hatten, hattet, hatten"
-    ],
-    "ex": [
-      "Gestern war ich zu Hause.",
-      "Ich hatte ein Auto."
-    ]
-  },
-  {
-    "n": 8,
-    "t": "زمان گذشته کامل (Perfekt)",
-    "lv": "A2",
-    "pts": [
-      "ساختار: haben یا sein + Partizip II",
-      "اکثر افعال با haben ساخته می‌شوند، افعال حرکتی و تغییر حالت با sein"
-    ],
-    "ex": [
-      "Ich habe ein Buch gelesen.",
-      "Er ist nach Berlin gefahren.",
-      "Wir haben Deutsch gelernt."
-    ]
-  },
-  {
-    "n": 9,
-    "t": "حروف اضافه با حالت داتیو (Präpositionen mit Dativ)",
-    "lv": "B1",
-    "pts": [
-      "aus, bei, mit, nach, seit, von, zu همگی سازنده داتیو هستند",
-      "der/das به dem و die به der تبدیل می‌شوند"
-    ],
-    "ex": [
-      "Ich komme aus dem Iran.",
-      "Mit dem Bus fahren.",
-      "Ich gehe zu der Arbeit (zur Arbeit)."
-    ]
-  },
-  {
-    "n": 10,
-    "t": "حروف اضافه دوحالته (Wechselpräpositionen)",
-    "lv": "B1",
-    "pts": [
-      "an, auf, hinter, in, neben, über, unter, vor, zwischen",
-      "اگر پاسخ به کجا باشد (Wohin) -> آکوزاتیو، اگر پاسخ به کجا باشد (Wo) -> داتیو"
-    ],
-    "ex": [
-      "Ich lege das Buch auf den Tisch (Wohin - Akkusativ).",
-      "Das Buch liegt auf dem Tisch (Wo - Dativ)."
-    ]
+    "vis": "prep"
   }
 ]

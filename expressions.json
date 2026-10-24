@@ -1,6 +1,6 @@
 [
   {
-    "title": "احوالپرسی و آشنایی (Begrüßung & Kennenlernen)",
+    "title": "احوالپرسی و سلام",
     "icon": "👋",
     "items": [
       [
@@ -9,127 +9,11 @@
       ],
       [
         "Wie geht es Ihnen?",
-        "حال شما چطور است؟ (رسمی)"
+        "حال شما چطور است؟"
       ],
       [
-        "Wie geht's?",
-        "چطوری؟ (خودمانی)"
-      ],
-      [
-        "Freut mich, Sie kennenzu lernen.",
-        "از آشنایی با شما خوشحالم."
-      ],
-      [
-        "Woher kommen اهل کجایید؟",
-        "اهل کجایید؟"
-      ],
-      [
-        "Ich komme aus dem Iran.",
-        "من اهل ایران هستم."
-      ]
-    ]
-  },
-  {
-    "title": "در خرید و سوپرمارکت (Einkaufen)",
-    "icon": "🛒",
-    "items": [
-      [
-        "Was kostet das?",
-        "این چقدر قیمت دارد؟"
-      ],
-      [
-        "Ich hätte gern...",
-        "من ... می‌خواستم."
-      ],
-      [
-        "Kann ich mit Karte bezahlen?",
-        "آیا می‌توانم با کارت پرداخت کنم؟"
-      ],
-      [
-        "Brauchen Sie eine Tasche?",
-        "آیا به کیسه نیاز دارید؟"
-      ],
-      [
-        "Haben Sie das in Größe M?",
-        "این را در سایز M دارید؟"
-      ]
-    ]
-  },
-  {
-    "title": "در رستوران و کافه (Im Restaurant & Café)",
-    "icon": "☕",
-    "items": [
-      [
-        "Ich möchte bitte bestellen.",
-        "لطفاً می‌خواهم سفارش دهم."
-      ],
-      [
-        "Die Speisekarte, bitte.",
-        "منو را لطفاً."
-      ],
-      [
-        "Guten Appetit!",
-        "نوش جان!"
-      ],
-      [
-        "Zahlen, bitte!",
-        "حساب می‌کنم لطفا / صورت‌حساب لطفاً."
-      ],
-      [
-        "Hat es Ihnen geschmeckt?",
-        "آیا به شما مزه داد / غذا چطور بود؟"
-      ]
-    ]
-  },
-  {
-    "title": "مسافرت و آدرس (Reisen & Weg)",
-    "icon": "🧭",
-    "items": [
-      [
-        "Wo ist der Bahnhof?",
-        "ایستگاه قطار کجاست؟"
-      ],
-      [
-        "Entschuldigung, wie komme ich zum Flughafen?",
-        "ببخشید، چطور به فرودگاه بروم؟"
-      ],
-      [
-        "Ein Ticket nach Berlin, bitte.",
-        "یک بلیت به مقصد برلین، لطفاً."
-      ],
-      [
-        "Fährt dieser Zug nach Frankfurt?",
-        "آیا این قطار به فرانکفورت می‌رود؟"
-      ],
-      [
-        "Wo kann man hier park کجا می‌توان پارک کرد؟",
-        "کجا می‌توان اینجا پارک کرد؟"
-      ]
-    ]
-  },
-  {
-    "title": "پزشک و اورژانس (Arzt & Notfall)",
-    "icon": "🏥",
-    "items": [
-      [
-        "Mir ist nicht gut.",
-        "حالم خوب نیست."
-      ],
-      [
-        "Ich habe Kopfschmerzen.",
-        "سردرد دارم."
-      ],
-      [
-        "Wo ist die nächste Apotheke?",
-        "نزدیک‌ترین داروخانه کجاست؟"
-      ],
-      [
-        "Ich brauche einen Termin beim Arzt.",
-        "من به وقت ملاقات با پزشک نیاز دارم."
-      ],
-      [
-        "Rufen Sie einen Arzt!",
-        "یک پزشک خبر کنید!"
+        "Auf Wiedersehen",
+        "خداحافظ"
       ]
     ]
   }
