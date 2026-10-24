@@ -1,0 +1,8 @@
+{
+  "name": "Deutsch Zauber ✨",
+  "short_name": "DeutschZauber",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1033",
+  "theme_color": "#172554"
+}
