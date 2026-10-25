@@ -9,6 +9,11 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Deutsch Zauber ✨ جادوی آلمانی">
 <meta property="og:description" content="یادگیری آلمانی با فلش‌کارت، آزمون و جدول صرف افعال · ساخته‌ی محمد جواد حبیبی">
+<meta property="og:image" content="https://habibimjavad-maker.github.io/deutsch-zauber/og-image.png">
+<meta property="og:url" content="https://habibimjavad-maker.github.io/deutsch-zauber/">
+<meta property="og:locale" content="fa_IR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://habibimjavad-maker.github.io/deutsch-zauber/og-image.png">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -31,6 +36,7 @@ select,input{flex:1;min-width:0;background:var(--glass);border:1px solid var(--l
 select option{color:#111}
 input:focus,select:focus{border-color:var(--gold)}
 .card{padding:26px 18px;text-align:center;min-height:300px;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:10px;animation:sway 7s ease-in-out infinite;position:relative;cursor:pointer}
+@keyframes float{50%{transform:translateY(-6px)}}
 .cnt{position:absolute;top:12px;inset-inline-start:16px;color:var(--mut);font-size:12px}
 .tag{font-size:12px;color:var(--mut);background:#fff1;border-radius:99px;padding:3px 10px}
 .art{font-weight:800;font-size:22px;direction:ltr;display:inline-block}
@@ -73,6 +79,7 @@ nav button.on{background:var(--glass);color:var(--gold);border:1px solid var(--l
 .err{padding:20px;text-align:center;color:#ffb4c0}
 .empty{padding:30px;text-align:center;color:var(--mut)}
 
+/* ---- v3 زیبایی ---- */
 @keyframes sh{to{background-position:200% 0}}
 @keyframes tw{from{opacity:.25}to{opacity:1}}
 @keyframes pop{from{opacity:0;transform:scale(.85) translateY(8px)}to{opacity:1;transform:none}}
@@ -90,6 +97,7 @@ background-image:radial-gradient(1.6px 1.6px at 8% 22%,#fff,transparent),radial-
 header p{letter-spacing:.2px}
 .card::before{content:"";position:absolute;inset:0;border-radius:22px;padding:1.6px;background:linear-gradient(135deg,#ffd66b,#ff8fc2,#8b5cf6,#38bdf8);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none;opacity:.9}
 .card{box-shadow:0 14px 50px #0007,0 0 60px #7c3aed40}
+#fav{animation:pop .35s ease-out}
 button:hover{filter:brightness(1.15)}
 .item{transition:.2s}.item:hover{transform:translateX(-3px);border-color:var(--gold)}
 .stat b{text-shadow:0 0 18px #ffd66b66}
@@ -98,6 +106,8 @@ footer{text-align:center;margin:26px 0 6px;color:var(--mut);font-size:13px}
 footer b{color:var(--gold);font-weight:800}
 footer small{display:block;margin-top:3px;opacity:.6;font-size:11px}
 .heart{display:inline-block;animation:beat 1.6s ease-in-out infinite}
+.reveal{font-size:17px;padding:13px 28px;border-radius:99px;margin-top:4px;box-shadow:0 0 0 0 #ffd66b88;animation:glow 2s infinite}
+@keyframes glow{70%{box-shadow:0 0 0 14px #ffd66b00}100%{box-shadow:0 0 0 0 #ffd66b00}}
 .sw{display:inline-block;width:32px;height:32px;border-radius:50%;margin-inline-end:10px;vertical-align:middle;box-shadow:0 0 0 2px #ffffff88,0 4px 18px #0008}
 .item .sw{width:20px;height:20px;margin:0;flex:none}
 .qo{display:grid;gap:10px;margin-top:12px}.qo button{padding:15px;font-size:17px}
@@ -108,6 +118,7 @@ nav button{font-size:12px}.ex{padding:0;overflow:hidden}.ex summary{padding:14px
 .vg{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px;margin:10px 0}.vg figure{margin:0;text-align:center}.vg svg{width:100%;max-width:130px}.vg figcaption{font-size:13px;direction:ltr}.vg small{display:block;color:var(--mut)}
 .cls{display:grid;grid-template-columns:repeat(auto-fit,minmax(96px,1fr));gap:10px;margin:10px 0}.cl{text-align:center;direction:ltr}.cl svg{width:100%;max-width:110px}.cl b{display:block;font-size:13px}.cl small{color:var(--mut)}.vis{padding:0 14px 14px}
 #card{touch-action:pan-y;user-select:none;-webkit-user-select:none;will-change:transform,opacity}
+/* ---- کارت استوانه‌ای ---- */
 .stage{position:relative;perspective:900px;margin:0 22px}
 .stage .card{border-radius:36px/52px;transform-origin:50% 50%;backface-visibility:hidden}
 .card::before{border-radius:inherit}
@@ -118,6 +129,7 @@ nav button{font-size:12px}.ex{padding:0;overflow:hidden}.ex summary{padding:14px
 @keyframes blinkL{0%,100%{opacity:.12;transform:translate(0,-50%)}50%{opacity:1;transform:translate(-5px,-50%)}}
 @keyframes blinkR{0%,100%{opacity:.12;transform:translate(0,-50%)}50%{opacity:1;transform:translate(5px,-50%)}}
 .swd .ar{display:none}
+/* ===== v20: چرخش کارت + دسته‌کارت + دکمه‌های آبنباتی ===== */
 .stage{margin-top:40px}
 .cf{position:relative;width:100%;min-height:250px;transform-style:preserve-3d;transition:transform .65s cubic-bezier(.2,.8,.3,1)}
 .cf.flip{transform:rotateY(180deg)}
@@ -146,8 +158,34 @@ nav button i{font-style:normal;font-size:27px;line-height:1;transition:transform
 nav button.on{color:#4a2a00;background:linear-gradient(180deg,#fff0a8,#ffc13b);box-shadow:0 6px 0 #b97b12,0 10px 16px #0007,inset 0 2px 0 #ffffffaa;transform:translateY(-8px)}
 nav button.on i{transform:scale(1.18)}
 body{padding-bottom:calc(124px + env(safe-area-inset-bottom))}
+/* ===== v21: استوانه‌ی چرخان (طرح ۴) + رفع لرزش + منوهای آبنباتی ===== */
 html{background:#0b1033}
 body{background-attachment:scroll;min-height:100vh;overflow-x:hidden}
+.stage{position:relative;perspective:1000px;margin:30px 0 0;height:340px}
+.stage .card{position:absolute;left:17%;width:66%;top:0;bottom:0;min-height:0;padding:14px;z-index:10;animation:none;transform:none;backdrop-filter:none;-webkit-backdrop-filter:none;background:rgba(36,28,104,.88)}
+.stage .cf{min-height:0;height:100%}
+.stage .de{font-size:clamp(20px,6.2vw,32px)}.stage .fa.big{font-size:clamp(22px,7vw,34px)}.stage .sub{font-size:13px}
+.ar.l{left:2px}.ar.r{right:2px}
+nav div{backdrop-filter:none;-webkit-backdrop-filter:none;background:rgba(20,16,66,.96)}
+option{background:#241a70;color:#fff;font-weight:600;padding:10px}
+/* ===== v21: استوانه‌ی سه‌بعدی ===== */
+html,body{overflow-x:hidden}.wrap{overflow-x:clip}
+.stage{height:340px;margin:6px 34px 0;perspective:1100px;touch-action:pan-y;user-select:none;-webkit-user-select:none}
+.drum{position:absolute;inset:0;transform-style:preserve-3d}
+.stage .card{position:absolute;inset:0;min-height:0;padding:0;display:block;animation:none;cursor:pointer;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:36px/52px;background:linear-gradient(160deg,rgba(78,56,170,.96),rgba(26,20,86,.98));backdrop-filter:none;-webkit-backdrop-filter:none;transform-style:preserve-3d;will-change:transform}
+.stage .card.nb{filter:brightness(.72);pointer-events:none}
+.stage .cf{position:absolute;inset:0;width:auto;min-height:0}
+.fc{padding:22px 18px}
+.nb .de{font-size:30px}
+select{-webkit-appearance:none;appearance:none;font-weight:700;padding:12px 16px 12px 38px;border-radius:22px;border:2px solid rgba(255,255,255,.28);color:#fff;background-color:rgba(120,90,230,.35);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='10' viewBox='0 0 16 10'%3E%3Cpath d='M2 2l6 6 6-6' fill='none' stroke='%23ffd66b' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:left 14px center;box-shadow:0 4px 0 rgba(0,0,0,.28),inset 0 2px 0 rgba(255,255,255,.25)}
+select:focus{border-color:#ffd66b;outline:none}
+select option{background:#1d1654;color:#fff;font-weight:600}
+.ex summary{position:relative;padding:16px 46px 16px 16px;font-size:16px;background:linear-gradient(90deg,rgba(255,154,213,.2),rgba(154,208,255,.14))}
+.ex summary::-webkit-details-marker{display:none}
+.ex summary::after{content:"▾";position:absolute;left:16px;top:50%;transform:translateY(-50%);font-size:22px;color:#ffd66b;transition:transform .25s}
+.ex[open] summary::after{transform:translateY(-50%) rotate(180deg)}
+.ex[open] summary{background:linear-gradient(90deg,rgba(255,214,107,.28),rgba(255,154,213,.2))}
+/* ===== v22: چیدمان متقارن + منوی کشویی سفارشی ===== */
 .stage{height:350px;margin:10px 18px 0;perspective:1000px}
 .drum{transform:none!important;transform-style:flat}
 .stage .card{left:17%;right:auto;top:0;bottom:auto;width:66%;height:100%;transform-origin:50% 50%}
@@ -167,15 +205,21 @@ select{display:none!important}
 .ddi{padding:13px 16px;margin:3px 0;border-radius:16px;color:#fff;font-weight:600;font-size:16px;cursor:pointer;text-align:start}
 .ddi:active{background:rgba(255,255,255,.18)}
 .ddi.on{background:linear-gradient(180deg,#fff0a8,#ffc13b);color:#4a2a00;font-weight:800;box-shadow:0 3px 0 #b97b12}
+/* ===== v24: چرخش قشنگ کارت ===== */
 .cf{transition:none!important}
 .stage{height:384px}
 .stage .card{top:16px!important;height:352px!important;perspective:1100px}
 .shm{position:absolute;inset:0;border-radius:inherit;overflow:hidden;pointer-events:none;z-index:6}
 .sh{position:absolute;top:-12%;bottom:-12%;left:0;width:42%;opacity:0;background:linear-gradient(100deg,transparent,rgba(255,255,255,.6),rgba(255,214,107,.35),transparent);transform:translateX(-130%) skewX(-20deg)}
+/* ===== v24: چرخش زیبای کارت ===== */
+.stage .card{perspective:760px}
+.cf{transition:none!important}
+.fc{border-radius:36px/52px}
 .fc.back{background:linear-gradient(160deg,rgba(110,78,220,.55),rgba(60,40,150,.35))}
 .art.pl,.pl{color:#ff9f43;text-shadow:0 0 10px rgba(255,159,67,.5)}
 .ddm{overscroll-behavior:contain;touch-action:pan-y;max-height:60vh}
 .ddi{white-space:normal}
+.ddm{overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;touch-action:pan-y}
 .ddq{position:sticky;top:0;z-index:3;width:100%;padding:11px 14px;margin:0 0 6px;border-radius:16px;border:2px solid rgba(255,214,107,.65);background:#1a1458;color:#fff;font:inherit;font-weight:700;direction:rtl}
 .ddg{padding:12px 14px 4px;font-size:12px;font-weight:800;color:#ffd66b;letter-spacing:.3px}
 .ddm{overflow-y:scroll!important;scrollbar-width:thin;scrollbar-color:#ffd66b rgba(255,255,255,.12)}
@@ -189,7 +233,10 @@ select{display:none!important}
 .ddn{position:sticky;bottom:2px;display:flex;gap:10px;justify-content:center;padding:14px 0 4px;background:linear-gradient(rgba(26,20,88,0),rgba(26,20,88,.97) 45%)}
 .ddn button{width:44px;height:44px;padding:0;border-radius:50%;font-size:18px}
 .em{font-size:62px;line-height:1.1;margin:-2px 0 0;filter:drop-shadow(0 4px 8px #0007)}
+#phb img{max-width:100%;max-height:55vh;border-radius:18px;box-shadow:0 8px 24px #0008}
+#phb .src{display:inline-block;margin-top:10px;color:#ffd66b;font-size:13px}
 .back .em{font-size:54px;margin:0}.fa.big{font-size:34px}
+.em.dim{opacity:.5;filter:grayscale(.35) drop-shadow(0 4px 8px #0007)}.back .em img{height:92px;max-width:100%;border-radius:16px;object-fit:cover;box-shadow:0 6px 18px #0008}
 </style>
 </head>
 <body>
@@ -237,6 +284,7 @@ select{display:none!important}
 <footer>ساخته‌شده با <span class="heart">💜</span> توسط <b id="by">محمد جواد حبیبی</b><small>Deutsch Zauber · نسخه ۳</small></footer>
 </div>
 
+<div class="sheet" id="phm" onclick="if(event.target===this)this.classList.remove('on')"><div class="panel" style="text-align:center"><button class="x" onclick="$('#phm').classList.remove('on')">✕</button><div id="phb" style="padding-top:34px"></div></div></div>
 <div class="sheet" id="sheet" onclick="if(event.target===this)closeV()"><div class="panel" id="panel"></div></div>
 
 <nav><div class="glass">
@@ -261,7 +309,10 @@ const KS=w=>w.kasus?' · '+({Akk:'آکوزاتیوساز (+Akk)',Dat:'داتیو
 const LV=w=>w.level||'B1';
 const lvOK=(v,w)=>!v||(v==='A1-A2'?['A1','A2'].includes(LV(w)):LV(w)===v);
 let EM={};fetch('emoji.json',{cache:'no-cache'}).then(r=>r.json()).then(j=>{EM=j;if(window.deck&&deck.length)card()}).catch(()=>{});
-const emo=w=>EM[String(w.word).toLowerCase()]||'';
+const emo=w=>EM[String(w.word).toLowerCase().replace(/^sich /,'')]||'';
+const CE={'خانه':'🏠','غذا':'🍽️','بدن':'🧍','خانوادهوآدمها':'👪','لباس':'👕','حیوانات':'🐾','طبیعتوآبوهوا':'🌿','شهرومکانها':'🏙️','حملونقل':'🚗','کارومدرسه':'🎒','زمان':'⏰','وسایلوفناوری':'📱','سلامت':'🩺','رنگها':'🎨','ضمایر':'👤','ضمایرملکی':'👤','ضمایرآکوزاتیو':'👤','ضمایرداتیو':'👤','روزهایهفته':'📅','ماهها':'🗓️','اعداد':'🔢','مفاهیموا حساسات':'💭','مفاهیمواحساسات':'💭','سرگرمیوورزش':'⚽','جنسومواد':'🧱','کشورهاو زبانها':'🌍','کشورهاوزبانها':'🌍','خریدوپول':'💶','جشنهاومناسبتها':'🎉','واژههایعمومی':'💬','قید':'🧭','صفت':'✨','الفبا':'🔤','اتاقخواب':'🛏️','آشپزخانه':'🍳','اتاقکودک':'🧸','حمام':'🛁','توالت':'🚽','میوهها':'🍎','سبزیجات':'🥦','صیفیجات':'🥒','وسایلکشاورزی':'🚜','باغبانی':'🌱','ابزارآلات':'🔧','نسبتهایخانوادگی':'👪','آبوهوا':'⛅','کشاورزی':'🌾','زندگیروزمره':'🏡','ادارهومکاتبات':'🗂️','محیطشهری':'🏙️','خریدوفروشگاه':'🛍️','مسافرت':'🧳','محلکار':'💼','دانشگاهوآموزش':'🎓','رسانهو سرگرمی':'📺','رسانهوسرگرمی':'📺','افعال':'🏃'};
+const catEm=w=>{const k=String(w.category).replace(/[\u200c\s·]/g,'');return CE[k]||(k.startsWith('حروفاضافه')?'📍':'🖼️')};
+const picEm=w=>emo(w)?`<div class="em">${emo(w)}</div>`:`<div class="em dim">${catEm(w)}</div>`;
 const strip=s=>s.replace(/^(ich|du|er\/sie\/es|wir|ihr|sie|Sie) /,'');
 
 Promise.all([fetch('words.json',{cache:'no-cache'}).then(r=>r.json()),fetch('verbs.json',{cache:'no-cache'}).then(r=>r.json())])
@@ -304,7 +355,7 @@ function card(){
  <span class="tag">${esc(w.category)} · ${LV(w)}${isV(w)?KS(w):''}</span>${front}<div class="sub">${sub}</div>
  <button class="speak" onclick="event.stopPropagation();say()">🔊</button>
  ${isV(w)?'<button class="gold" style="padding:8px 14px" onclick="event.stopPropagation();openV(deck[idx])">📖 جدول صرف</button>':''}</div>
- <div class="fc back"><span class="tag">${esc(w.category)} · ${LV(w)}</span>${emo(w)?`<div class="em">${emo(w)}</div>`:''}<div class="fa big">${esc(w.fa)}</div><div class="sub">${esc(echo)}</div>${!isV(w)&&w.sub?`<div class="sub" style="font-size:14px">${esc(w.sub)}</div>`:''}<div class="row" style="margin:4px 0 0;gap:10px"><button class="speak" onclick="event.stopPropagation();say()">🔊</button></div></div></div><div class="shm"><i class="sh"></i></div>`;
+ <div class="fc back"><span class="tag">${esc(w.category)} · ${LV(w)}</span>${picEm(w)}<div class="fa big">${esc(w.fa)}</div><div class="sub">${esc(echo)}</div>${!isV(w)&&w.sub?`<div class="sub" style="font-size:14px">${esc(w.sub)}</div>`:''}<div class="row" style="margin:4px 0 0;gap:10px"><button class="speak" onclick="event.stopPropagation();say()">🔊</button><button class="gold" style="padding:8px 14px" onclick="event.stopPropagation();photo()">🖼️ عکس</button></div></div></div><div class="shm"><i class="sh"></i></div>`;
  nbs();
 }
 function flip(){const w=deck[idx],cf=$('#cf');if(!w||!cf)return;shown=!shown;
@@ -314,7 +365,7 @@ function flip(){const w=deck[idx],cf=$('#cf');if(!w||!cf)return;shown=!shown;
  cf.style.transform=`rotateY(${to}deg)`;
  if(cf.querySelectorAll)cf.querySelectorAll('.fc').forEach(f=>f.animate&&f.animate([{boxShadow:'0 0 0 rgba(255,214,107,0)'},{boxShadow:'0 0 48px rgba(255,214,107,.6)',offset:.5},{boxShadow:'0 0 0 rgba(255,214,107,0)'}],{duration:780,easing:'ease-in-out'}));
  const sh=document.querySelector('#card .sh');if(sh&&sh.animate)sh.animate([{opacity:0,transform:'translateX(-130%) skewX(-20deg)'},{opacity:.95,offset:.5},{opacity:0,transform:'translateX(260%) skewX(-20deg)'}],{duration:780,easing:'ease-in-out'})}
-$('#card').onclick=flip;
+$('#card').onclick=()=>{flip();if(shown)autoPhoto()};
 try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')}catch(_){}
 (function(){
  const st=$('.stage'),els={'-2':$('#n-2'),'-1':$('#n-1'),'0':$('#card'),'1':$('#n1'),'2':$('#n2')};
@@ -347,6 +398,7 @@ try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')
  st.addEventListener('click',e=>{if(moved){e.stopImmediatePropagation();e.preventDefault();moved=false}},true);
  document.addEventListener('keydown',e=>{if($('#t-cards').hidden||busy)return;if(e.key==='ArrowLeft')step(1);else if(e.key==='ArrowRight')step(-1)});
 })();
+/* منوی کشویی سفارشی (آبنباتی) به‌جای منوی سفیدِ خود مرورگر */
 (function(){
  const M=document.createElement('div');M.className='ddm';M.hidden=true;document.body.append(M);let cur=null;
  const B=document.createElement('div');B.className='ddbar';B.hidden=true;const T=document.createElement('i');B.append(T);document.body.append(B);
@@ -363,7 +415,7 @@ try{if(localStorage.getItem('dz4'))document.documentElement.classList.add('swd')
   if(!['fc','dc','qc'].includes(s.id)){opts.forEach((o,i)=>M.append(mkIt(o,i)))}
   else{
    const GR=[['خانه و زندگی','خانه|اتاق خواب|آشپزخانه|اتاق کودک|حمام|توالت|زندگی روزمره'],['غذا و طبیعت','غذا|میوه‌ها|سبزیجات|صیفی‌جات|حیوانات|طبیعت و آب‌وهوا|آب‌وهوا|کشاورزی|وسایل کشاورزی|باغبانی'],['آدم‌ها و بدن','بدن|خانواده و آدم‌ها|نسبت‌های خانوادگی|سلامت|لباس'],['شهر و سفر','شهر و مکان‌ها|محیط شهری|حمل‌ونقل|مسافرت|کشورها و زبان‌ها'],['کار و تحصیل','کار و مدرسه|محل کار|اداره و مکاتبات|دانشگاه و آموزش|وسایل و فناوری|ابزارآلات'],['خرید و سرگرمی','خرید و پول|خرید و فروشگاه|رسانه و سرگرمی|سرگرمی و ورزش|جشن‌ها و مناسبت‌ها'],['زمان و عدد','زمان|روزهای هفته|ماه‌ها|اعداد|الفبا'],['دستور و مفاهیم','ضمایر|ضمایر ملکی|ضمایر آکوزاتیو|ضمایر داتیو|حروف اضافه · آکوزاتیو|حروف اضافه · داتیو|حروف اضافه · دوحالته|قید|صفت|رنگ‌ها|جنس و مواد|مفاهیم و احساسات|واژه‌های عمومی|افعال']];
-   const nz=t=>t.replace(/[‌\s]/g,''),gm={};GR.forEach(([g,l])=>l.split('|').forEach(c=>gm[nz(c)]=g));
+   const nz=t=>t.replace(/[\u200c\s]/g,''),gm={};GR.forEach(([g,l])=>l.split('|').forEach(c=>gm[nz(c)]=g));
    const q=document.createElement('input');q.className='ddq';q.placeholder='🔍 جستجوی دسته…';
    q.onclick=ev=>ev.stopPropagation();
    q.oninput=()=>{const t=q.value.trim();M.querySelectorAll('.ddi').forEach(x=>x.style.display=t&&!x.textContent.includes(t)?'none':'');M.querySelectorAll('.ddg').forEach(g=>{let n=g.nextElementSibling,any=false;while(n&&!n.classList.contains('ddg')){if(n.style.display!=='none')any=true;n=n.nextElementSibling}g.style.display=any?'':'none'})};
@@ -443,7 +495,7 @@ function qShow(){
  const b=$('#qbox');
  if(Q.i>=Q.qs.length){const r=Q.ok/Q.qs.length;b.innerHTML=`<div class="de" style="font-size:46px">${Q.ok} / ${Q.qs.length}</div><div class="fa" style="margin:10px 0">${r>=.9?'🏆 عالی بود!':r>=.6?'👏 آفرین!':'💪 باز هم تمرین کن!'}</div><div class="row"><button class="gold" onclick="qStart()">🔁 آزمون تازه</button><button onclick="go('cards')">🃏 فلش‌کارت</button></div>`;prog();smartLabel();return}
  const w=Q.qs[Q.i],de=Q.d==='de',f=x=>de?x.fa:lab(x),ans=f(w);
- const same=ALL.filter(x=>x!==w&&isV(x)===isV(x)&&f(x)!==ans),o3=[],seen=new Set([ans]);
+ const same=ALL.filter(x=>x!==w&&isV(x)===isV(w)&&f(x)!==ans),o3=[],seen=new Set([ans]);
  for(const x of shuf2(same.filter(x=>x.category===w.category)).concat(shuf2(same.filter(x=>x.category!==w.category)))){const l=f(x);if(!seen.has(l)){seen.add(l);o3.push(l)}if(o3.length===3)break}
  Q.w=w;Q.ans=ans;Q.done=false;Q.opts=shuf2([ans,...o3]);
  b.innerHTML=`<div class="hint">سؤال ${Q.i+1} از ${Q.qs.length} · ✅ ${Q.ok}</div><div class="${de?'de':'fa'}" style="margin:16px 0">${esc(de?lab(w):w.fa)}</div><div class="qo" style="direction:${de?'rtl':'ltr'}">${Q.opts.map((o,i)=>`<button onclick="qPick(${i})">${esc(o)}</button>`).join('')}</div><div id="qn" class="row"></div>`;
@@ -457,7 +509,6 @@ function qPick(i){
 }
 
 fetch('expressions.json',{cache:'no-cache'}).then(r=>r.json()).then(E=>{$('#exl').innerHTML=E.map(s=>`<details class="glass ex"><summary>${s.icon} ${esc(s.title)} <small>${s.items.length}</small></summary>${s.items.map(p=>`<div class="ph"><div><b>${esc(p[0])}</b><span>${esc(p[1])}</span></div><button class="speak" data-t="${esc(p[0])}" onclick="sayT(this)">🔊</button></div>`).join('')}</details>`).join('')}).catch(()=>{});
-
 const VIS={
 clock(){const C=[[3,0,'Es ist drei Uhr'],[3,15,'viertel nach drei'],[3,30,'halb vier'],[3,45,'viertel vor vier']];
  return '<div class="vg">'+C.map(([h,m,t])=>{const a=(h%12+m/60)*30-90,b=m*6-90,P=(d,l)=>(50+l*Math.cos(d*Math.PI/180))+','+(50+l*Math.sin(d*Math.PI/180));let k='';for(let i=0;i<12;i++){const c=Math.cos(i*Math.PI/6),n=Math.sin(i*Math.PI/6);k+=`<line x1="${50+40*c}" y1="${50+40*n}" x2="${50+45*c}" y2="${50+45*n}" stroke="#ffd66b" stroke-width="2"/>`}
@@ -465,10 +516,21 @@ clock(){const C=[[3,0,'Es ist drei Uhr'],[3,15,'viertel nach drei'],[3,30,'halb 
 prep(){const R=(x,w=40,f='#8b5cf655')=>`<rect x="${x}" y="38" width="${w}" height="26" rx="4" fill="${f}" stroke="#c3a2ff"/>`,O=(x,y)=>`<circle cx="${x}" cy="${y}" r="8" fill="#ffd66b"/>`;
  const S=[['auf · روی',R(30)+O(50,30)],['über · بالای',R(30)+O(50,12)],['unter · زیر',R(30)+O(50,78)],['vor · جلوی',R(30)+O(50,62)],['hinter · پشت',O(56,40)+R(30)],['neben · کنار',R(14,36)+O(80,51)],['an · چسبیده به',R(18,36)+O(62,51)],['in · داخل',R(30,40,'none')+O(50,51)],['zwischen · بین',R(6,28)+R(66,28)+O(50,51)]];
  return '<div class="vg">'+S.map(([t,g])=>`<figure><svg viewBox="0 0 100 90">${g}</svg><figcaption>${t}</figcaption></figure>`).join('')+'</div>'}};
-
 fetch('grammar.json',{cache:'no-cache'}).then(r=>r.json()).then(G=>{$('#grl').innerHTML=G.map(g=>(g.n%3==1?`<div class="hint" style="margin:10px 4px 0">MODUL ${g.m}</div>`:'')+`<details class="glass ex"><summary>درس ${g.n} · ${esc(g.t)} <small class="lv">${g.lv}</small></summary><div class="gr"><ul>${g.pts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>${g.vis?`<div class="vis" data-v="${g.vis}"></div>`:''}<div class="gx">${g.ex.map(x=>`<div>${esc(x)}</div>`).join('')}</div></div></details>`).join('');document.querySelectorAll('.vis').forEach(e=>e.innerHTML=VIS[e.dataset.v]())}).catch(()=>{});
 function sayT(b){if(!window.speechSynthesis)return;const u=new SpeechSynthesisUtterance(b.dataset.t.replace(/…/g,''));u.lang='de-DE';u.rate=.85;speechSynthesis.cancel();speechSynthesis.speak(u)}
-
+let PHC={};
+async function autoPhoto(){const w=deck[idx];if(!w||isV(w)||!w.article||emo(w)||!navigator.onLine)return;const t=String(w.word);
+ try{let d=PHC[t];if(!d){const r=await fetch('https://de.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t));if(!r.ok)return;d=PHC[t]=await r.json()}
+  if(d.type==='disambiguation'||!d.thumbnail)return;if(deck[idx]!==w||!shown)return;const s=$('#cf .back .em');if(s){s.classList.remove('dim');s.innerHTML=`<img src="${d.thumbnail.source}" alt="">`}}catch(e){}}
+async function photo(){
+ const w=deck[idx];if(!w)return;const m=$('#phm');m.classList.add('on');const bx=$('#phb');
+ const t=String(w.word).replace(/^sich /,'');bx.innerHTML='<div class="hint">⏳ در حال گرفتن عکس…</div>';
+ try{
+  if(!PHC[t]){const r=await fetch('https://de.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t));if(!r.ok)throw 0;PHC[t]=await r.json()}
+  const d=PHC[t],src=d.thumbnail&&d.thumbnail.source;
+  bx.innerHTML=src?`<img src="${src}" alt="${esc(t)}"><div class="sub" style="text-align:center;margin-top:8px">${esc(d.description||d.title||t)}</div><a class="src" href="${d.content_urls&&d.content_urls.desktop?d.content_urls.desktop.page:'#'}" target="_blank" rel="noopener">منبع: ویکی‌پدیا ↗</a>`:'<div class="hint">برای این واژه عکسی پیدا نشد. (عکس واقعی بیشتر برای اسم‌های ملموس هست.)</div>';
+ }catch(e){bx.innerHTML='<div class="hint">عکس گرفته نشد؛ به اینترنت نیاز است یا برای این واژه صفحه‌ای نیست.</div>'}
+}
 function go(t){
  ['cards','dict','quiz','exp','gram','prog'].forEach(x=>$('#t-'+x).hidden=x!==t);
  document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.t===t));
