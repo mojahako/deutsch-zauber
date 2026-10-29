@@ -15955,5 +15955,3315 @@
   "type": "word",
   "tag": "قید",
   "level": "A1"
+ },
+ {
+  "article": "die",
+  "word": "Verletzung",
+  "plural": "Verletzungen",
+  "fa": "آسیب؛ جراحت",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bruch",
+  "plural": "Brüche",
+  "fa": "شکستگی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Entzündung",
+  "plural": "Entzündungen",
+  "fa": "التهاب",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Blutdruck",
+  "plural": "-",
+  "fa": "فشار خون",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Puls",
+  "plural": "-",
+  "fa": "نبض",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Diagnose",
+  "plural": "Diagnosen",
+  "fa": "تشخیص",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Behandlung",
+  "plural": "Behandlungen",
+  "fa": "درمان",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Therapie",
+  "plural": "Therapien",
+  "fa": "درمان؛ تراپی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Röntgenbild",
+  "plural": "Röntgenbilder",
+  "fa": "عکس رادیولوژی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Narkose",
+  "plural": "Narkosen",
+  "fa": "بیهوشی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Chirurg",
+  "plural": "Chirurgen",
+  "fa": "جراح",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Krankenschwester",
+  "plural": "Krankenschwestern",
+  "fa": "پرستار (زن)",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Pfleger",
+  "plural": "Pfleger",
+  "fa": "پرستار (مرد)",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Notaufnahme",
+  "plural": "Notaufnahmen",
+  "fa": "اورژانس بیمارستان",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Rollstuhl",
+  "plural": "Rollstühle",
+  "fa": "ویلچر",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Übelkeit",
+  "plural": "-",
+  "fa": "حالت تهوع",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Durchfall",
+  "plural": "-",
+  "fa": "اسهال",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Schwindel",
+  "plural": "-",
+  "fa": "سرگیجه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Heuschnupfen",
+  "plural": "-",
+  "fa": "تب یونجه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Ausschlag",
+  "plural": "Ausschläge",
+  "fa": "بثورات پوستی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Sonnenbrand",
+  "plural": "Sonnenbrände",
+  "fa": "آفتاب‌سوختگی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Insektenstich",
+  "plural": "Insektenstiche",
+  "fa": "نیش حشره",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Tropfen",
+  "plural": "Tropfen",
+  "fa": "قطره",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Fieberthermometer",
+  "plural": "-",
+  "fa": "تب‌سنج",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Ernährung",
+  "plural": "-",
+  "fa": "تغذیه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Diät",
+  "plural": "Diäten",
+  "fa": "رژیم غذایی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Gewicht",
+  "plural": "Gewichte",
+  "fa": "وزن",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Zahnspange",
+  "plural": "Zahnspangen",
+  "fa": "ارتودنسی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Krankenversicherung",
+  "plural": "Krankenversicherungen",
+  "fa": "بیمه‌ی درمانی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Krankmeldung",
+  "plural": "Krankmeldungen",
+  "fa": "گزارش بیماری",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Fach",
+  "plural": "Fächer",
+  "fa": "درس؛ رشته",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Vorlesung",
+  "plural": "Vorlesungen",
+  "fa": "سخنرانی دانشگاهی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Seminar",
+  "plural": "Seminare",
+  "fa": "سمینار",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Abschlussarbeit",
+  "plural": "Abschlussarbeiten",
+  "fa": "پایان‌نامه",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Abschluss",
+  "plural": "Abschlüsse",
+  "fa": "مدرک؛ پایان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Diplom",
+  "plural": "Diplome",
+  "fa": "دیپلم؛ مدرک",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Note",
+  "plural": "Noten",
+  "fa": "نمره",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Stipendium",
+  "plural": "Stipendien",
+  "fa": "بورسیه",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Studiengang",
+  "plural": "Studiengänge",
+  "fa": "رشته‌ی تحصیلی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Fakultät",
+  "plural": "Fakultäten",
+  "fa": "دانشکده",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Professor",
+  "plural": "Professoren",
+  "fa": "استاد دانشگاه",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Dozent",
+  "plural": "Dozenten",
+  "fa": "مدرس دانشگاه",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Kommilitone",
+  "plural": "Kommilitonen",
+  "fa": "همکلاسی دانشگاهی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Lerngruppe",
+  "plural": "Lerngruppen",
+  "fa": "گروه مطالعه",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Klassenarbeit",
+  "plural": "Klassenarbeiten",
+  "fa": "امتحان کلاسی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Nachhilfe",
+  "plural": "-",
+  "fa": "کلاس تقویتی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Grundschule",
+  "plural": "Grundschulen",
+  "fa": "دبستان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Gymnasium",
+  "plural": "Gymnasien",
+  "fa": "دبیرستان (گیمنازیوم)",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Berufsschule",
+  "plural": "Berufsschulen",
+  "fa": "هنرستان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Volkshochschule",
+  "plural": "Volkshochschulen",
+  "fa": "آموزشگاه بزرگسالان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Sprachkurs",
+  "plural": "Sprachkurse",
+  "fa": "دوره‌ی زبان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Lehrbuch",
+  "plural": "Lehrbücher",
+  "fa": "کتاب درسی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Arbeitsbuch",
+  "plural": "Arbeitsbücher",
+  "fa": "کتاب کار",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Grammatik",
+  "plural": "Grammatiken",
+  "fa": "دستور زبان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Wortschatz",
+  "plural": "-",
+  "fa": "دایره‌ی واژگان",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Rechtschreibung",
+  "plural": "-",
+  "fa": "املا",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Übersetzung",
+  "plural": "Übersetzungen",
+  "fa": "ترجمه",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Dolmetscher",
+  "plural": "Dolmetscher",
+  "fa": "مترجم شفاهی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Freude",
+  "plural": "-",
+  "fa": "شادی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Trauer",
+  "plural": "-",
+  "fa": "اندوه",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Wut",
+  "plural": "-",
+  "fa": "خشم",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Hoffnung",
+  "plural": "Hoffnungen",
+  "fa": "امید",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Sehnsucht",
+  "plural": "Sehnsüchte",
+  "fa": "اشتیاق؛ دلتنگی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Liebe",
+  "plural": "-",
+  "fa": "عشق",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Freundschaft",
+  "plural": "Freundschaften",
+  "fa": "دوستی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Vertrauen",
+  "plural": "-",
+  "fa": "اعتماد",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Geduld",
+  "plural": "-",
+  "fa": "صبر",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Mut",
+  "plural": "-",
+  "fa": "شجاعت",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Sorge",
+  "plural": "Sorgen",
+  "fa": "نگرانی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Ärger",
+  "plural": "-",
+  "fa": "عصبانیت",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Stolz",
+  "plural": "-",
+  "fa": "غرور؛ افتخار",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Scham",
+  "plural": "-",
+  "fa": "شرم",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Langeweile",
+  "plural": "-",
+  "fa": "کسالت",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Einsamkeit",
+  "plural": "-",
+  "fa": "تنهایی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Zufriedenheit",
+  "plural": "-",
+  "fa": "رضایت",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Pech",
+  "plural": "-",
+  "fa": "بدشانسی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Humor",
+  "plural": "-",
+  "fa": "شوخ‌طبعی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Persönlichkeit",
+  "plural": "Persönlichkeiten",
+  "fa": "شخصیت",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Eigenschaft",
+  "plural": "Eigenschaften",
+  "fa": "ویژگی",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Stärke",
+  "plural": "Stärken",
+  "fa": "نقطه‌ی قوت",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Schwäche",
+  "plural": "Schwächen",
+  "fa": "نقطه‌ی ضعف",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Erinnerung",
+  "plural": "Erinnerungen",
+  "fa": "خاطره",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Entscheidung",
+  "plural": "Entscheidungen",
+  "fa": "تصمیم",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Gedanke",
+  "plural": "Gedanken",
+  "fa": "فکر",
+  "category": "مفاهیم و احساسات",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Software",
+  "plural": "-",
+  "fa": "نرم‌افزار",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Hardware",
+  "plural": "-",
+  "fa": "سخت‌افزار",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Betriebssystem",
+  "plural": "Betriebssysteme",
+  "fa": "سیستم‌عامل",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Browser",
+  "plural": "Browser",
+  "fa": "مرورگر",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Webseite",
+  "plural": "Webseiten",
+  "fa": "صفحه‌ی وب",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Link",
+  "plural": "Links",
+  "fa": "پیوند",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Download",
+  "plural": "Downloads",
+  "fa": "دانلود",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Netzwerk",
+  "plural": "Netzwerke",
+  "fa": "شبکه",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Router",
+  "plural": "Router",
+  "fa": "روتر",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Datenbank",
+  "plural": "Datenbanken",
+  "fa": "پایگاه داده",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Speicher",
+  "plural": "Speicher",
+  "fa": "حافظه",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Festplatte",
+  "plural": "Festplatten",
+  "fa": "هارددیسک",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "USB-Stick",
+  "plural": "USB-Sticks",
+  "fa": "فلش‌مموری",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Update",
+  "plural": "Updates",
+  "fa": "به‌روزرسانی",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Konto",
+  "plural": "Konten",
+  "fa": "حساب (کاربری یا بانکی)",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Benutzername",
+  "plural": "Benutzernamen",
+  "fa": "نام کاربری",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Video",
+  "plural": "Videos",
+  "fa": "ویدیو",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Mikrofon",
+  "plural": "Mikrofone",
+  "fa": "میکروفون",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Chat",
+  "plural": "Chats",
+  "fa": "گفتگوی آنلاین",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Anruf",
+  "plural": "Anrufe",
+  "fa": "تماس تلفنی",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "SMS",
+  "plural": "-",
+  "fa": "پیامک",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Hacker",
+  "plural": "Hacker",
+  "fa": "هکر",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Virus",
+  "plural": "Viren",
+  "fa": "ویروس",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Programmierung",
+  "plural": "-",
+  "fa": "برنامه‌نویسی",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Roboter",
+  "plural": "Roboter",
+  "fa": "ربات",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Staat",
+  "plural": "Staaten",
+  "fa": "دولت؛ کشور",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Regierung",
+  "plural": "Regierungen",
+  "fa": "دولت (هیئت حاکمه)",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Parlament",
+  "plural": "Parlamente",
+  "fa": "مجلس",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Gesetz",
+  "plural": "Gesetze",
+  "fa": "قانون",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Recht",
+  "plural": "Rechte",
+  "fa": "حق؛ قانون",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Pflicht",
+  "plural": "Pflichten",
+  "fa": "وظیفه؛ تکلیف",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Freiheit",
+  "plural": "Freiheiten",
+  "fa": "آزادی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Demokratie",
+  "plural": "Demokratien",
+  "fa": "دموکراسی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Partei",
+  "plural": "Parteien",
+  "fa": "حزب",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bürger",
+  "plural": "Bürger",
+  "fa": "شهروند",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Staatsangehörigkeit",
+  "plural": "-",
+  "fa": "تابعیت",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Aufenthaltserlaubnis",
+  "plural": "-",
+  "fa": "اجازه‌ی اقامت",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Anwalt",
+  "plural": "Anwälte",
+  "fa": "وکیل",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Richter",
+  "plural": "Richter",
+  "fa": "قاضی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Strafe",
+  "plural": "Strafen",
+  "fa": "مجازات؛ جریمه",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Geldstrafe",
+  "plural": "Geldstrafen",
+  "fa": "جریمه‌ی نقدی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Mietvertrag",
+  "plural": "Mietverträge",
+  "fa": "قرارداد اجاره",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Einkommen",
+  "plural": "Einkommen",
+  "fa": "درآمد",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Steuererklärung",
+  "plural": "Steuererklärungen",
+  "fa": "اظهارنامه‌ی مالیاتی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Kredit",
+  "plural": "Kredite",
+  "fa": "وام",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Schulden",
+  "plural": "Schulden",
+  "fa": "بدهی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Zinsen",
+  "plural": "Zinsen",
+  "fa": "بهره",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Gesellschaft",
+  "plural": "Gesellschaften",
+  "fa": "جامعه؛ شرکت",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Umweltschutz",
+  "plural": "-",
+  "fa": "حفاظت از محیط‌زیست",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Recycling",
+  "plural": "-",
+  "fa": "بازیافت",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Energie",
+  "plural": "Energien",
+  "fa": "انرژی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Verschmutzung",
+  "plural": "Verschmutzungen",
+  "fa": "آلودگی",
+  "category": "جامعه و قانون",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Mannschaft",
+  "plural": "Mannschaften",
+  "fa": "تیم ورزشی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Schiedsrichter",
+  "plural": "Schiedsrichter",
+  "fa": "داور",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Stadion",
+  "plural": "Stadien",
+  "fa": "ورزشگاه",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Wettkampf",
+  "plural": "Wettkämpfe",
+  "fa": "مسابقه",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Sieg",
+  "plural": "Siege",
+  "fa": "پیروزی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Niederlage",
+  "plural": "Niederlagen",
+  "fa": "شکست",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Schwimmen",
+  "plural": "-",
+  "fa": "شنا (ورزش)",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Radfahren",
+  "plural": "-",
+  "fa": "دوچرخه‌سواری",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Skifahren",
+  "plural": "-",
+  "fa": "اسکی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Volleyball",
+  "plural": "-",
+  "fa": "والیبال",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Brettspiel",
+  "plural": "Brettspiele",
+  "fa": "بازی رومیزی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Angeln",
+  "plural": "-",
+  "fa": "ماهیگیری",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Camping",
+  "plural": "-",
+  "fa": "کمپینگ",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Fotografie",
+  "plural": "Fotografien",
+  "fa": "عکاسی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Malerei",
+  "plural": "Malereien",
+  "fa": "نقاشی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Gemälde",
+  "plural": "Gemälde",
+  "fa": "تابلوی نقاشی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Band",
+  "plural": "Bands",
+  "fa": "گروه موسیقی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Klavier",
+  "plural": "Klaviere",
+  "fa": "پیانو",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Geige",
+  "plural": "Geigen",
+  "fa": "ویولن",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Schlagzeug",
+  "plural": "Schlagzeuge",
+  "fa": "درامز",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Tanz",
+  "plural": "Tänze",
+  "fa": "رقص",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Stricken",
+  "plural": "-",
+  "fa": "بافتنی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ehrgeizig",
+  "plural": "-",
+  "fa": "جاه‌طلب",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "fleißig",
+  "plural": "-",
+  "fa": "کوشا؛ سخت‌کوش",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "faul",
+  "plural": "-",
+  "fa": "تنبل",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "höflich",
+  "plural": "-",
+  "fa": "مؤدب",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "unhöflich",
+  "plural": "-",
+  "fa": "بی‌ادب",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "mutig",
+  "plural": "-",
+  "fa": "شجاع",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ängstlich",
+  "plural": "-",
+  "fa": "ترسو",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "neugierig",
+  "plural": "-",
+  "fa": "کنجکاو",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "geduldig",
+  "plural": "-",
+  "fa": "صبور",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ungeduldig",
+  "plural": "-",
+  "fa": "بی‌صبر",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "großzügig",
+  "plural": "-",
+  "fa": "بخشنده",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "sparsam",
+  "plural": "-",
+  "fa": "صرفه‌جو",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "zuverlässig",
+  "plural": "-",
+  "fa": "قابل اعتماد",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "sympathisch",
+  "plural": "-",
+  "fa": "دوست‌داشتنی",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "schüchtern",
+  "plural": "-",
+  "fa": "خجالتی",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "selbstbewusst",
+  "plural": "-",
+  "fa": "با اعتمادبه‌نفس",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "kreativ",
+  "plural": "-",
+  "fa": "خلاق",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "klug",
+  "plural": "-",
+  "fa": "باهوش؛ زیرک",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "dumm",
+  "plural": "-",
+  "fa": "احمق",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ernst",
+  "plural": "-",
+  "fa": "جدی",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "nervös",
+  "plural": "-",
+  "fa": "عصبی؛ مضطرب",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "gelassen",
+  "plural": "-",
+  "fa": "آرام؛ خونسرد",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "treu",
+  "plural": "-",
+  "fa": "وفادار",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "witzig",
+  "plural": "-",
+  "fa": "بامزه؛ شوخ",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "stolz",
+  "plural": "-",
+  "fa": "مغرور؛ سرافراز",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "einsam",
+  "plural": "-",
+  "fa": "تنها؛ منزوی",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "dankbar",
+  "plural": "-",
+  "fa": "سپاسگزار",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "neidisch",
+  "plural": "-",
+  "fa": "حسود",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "gefährlich",
+  "plural": "-",
+  "fa": "خطرناک",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "vorsichtig",
+  "plural": "-",
+  "fa": "محتاط",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "verrückt",
+  "plural": "-",
+  "fa": "دیوانه",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "seltsam",
+  "plural": "-",
+  "fa": "عجیب؛ غریب",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Thermometer",
+  "plural": "Thermometer",
+  "fa": "دماسنج",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Therapie",
+  "plural": "Therapien",
+  "fa": "روان‌درمانی؛ درمان",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Gips",
+  "plural": "-",
+  "fa": "گچ (شکسته‌بندی)",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Knochenbruch",
+  "plural": "Knochenbrüche",
+  "fa": "شکستگی استخوان",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Infektion",
+  "plural": "Infektionen",
+  "fa": "عفونت",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Bakterium",
+  "plural": "Bakterien",
+  "fa": "باکتری",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Rachen",
+  "plural": "-",
+  "fa": "حلق",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Mandel",
+  "plural": "Mandeln",
+  "fa": "لوزه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Füllung",
+  "plural": "Füllungen",
+  "fa": "پر کردن دندان",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Praxis",
+  "plural": "Praxen",
+  "fa": "مطب",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Facharzt",
+  "plural": "Fachärzte",
+  "fa": "پزشک متخصص",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Krankenpfleger",
+  "plural": "Krankenpfleger",
+  "fa": "پرستار (مرد)",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Station",
+  "plural": "Stationen",
+  "fa": "بخش بیمارستان",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Intensivstation",
+  "plural": "Intensivstationen",
+  "fa": "مراقبت‌های ویژه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Blutuntersuchung",
+  "plural": "Blutuntersuchungen",
+  "fa": "آزمایش خون",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Tropfen",
+  "plural": "Tropfen",
+  "fa": "قطره‌ی دارو",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Hustensaft",
+  "plural": "Hustensäfte",
+  "fa": "شربت سرفه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Nebenwirkung",
+  "plural": "Nebenwirkungen",
+  "fa": "عوارض جانبی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Übergewicht",
+  "plural": "-",
+  "fa": "اضافه‌وزن",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Heuschnupfen",
+  "plural": "-",
+  "fa": "آلرژی فصلی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Asthma",
+  "plural": "-",
+  "fa": "آسم",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Diabetes",
+  "plural": "-",
+  "fa": "دیابت",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Herzinfarkt",
+  "plural": "Herzinfarkte",
+  "fa": "سکته‌ی قلبی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Schlaganfall",
+  "plural": "Schlaganfälle",
+  "fa": "سکته‌ی مغزی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Depression",
+  "plural": "Depressionen",
+  "fa": "افسردگی",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Angst",
+  "plural": "Ängste",
+  "fa": "ترس؛ اضطراب",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Hörgerät",
+  "plural": "Hörgeräte",
+  "fa": "سمعک",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Maske",
+  "plural": "Masken",
+  "fa": "ماسک",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Quarantäne",
+  "plural": "-",
+  "fa": "قرنطینه",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Desinfektionsmittel",
+  "plural": "Desinfektionsmittel",
+  "fa": "ضدعفونی‌کننده",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Hygiene",
+  "plural": "-",
+  "fa": "بهداشت",
+  "category": "سلامت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Konto",
+  "plural": "Konten",
+  "fa": "حساب بانکی",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Girokonto",
+  "plural": "Girokonten",
+  "fa": "حساب جاری",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Sparkonto",
+  "plural": "Sparkonten",
+  "fa": "حساب پس‌انداز",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Überweisung",
+  "plural": "Überweisungen",
+  "fa": "حواله؛ انتقال پول",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Kontonummer",
+  "plural": "Kontonummern",
+  "fa": "شماره‌ی حساب",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Kontostand",
+  "plural": "Kontostände",
+  "fa": "موجودی حساب",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Zins",
+  "plural": "Zinsen",
+  "fa": "سود (بهره)",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Gehaltskonto",
+  "plural": "Gehaltskonten",
+  "fa": "حساب حقوق",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Dauerauftrag",
+  "plural": "Daueraufträge",
+  "fa": "دستور پرداخت دائم",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Lastschrift",
+  "plural": "Lastschriften",
+  "fa": "برداشت مستقیم",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Gebühr",
+  "plural": "Gebühren",
+  "fa": "کارمزد",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Währung",
+  "plural": "Währungen",
+  "fa": "واحد پول",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Wechselkurs",
+  "plural": "Wechselkurse",
+  "fa": "نرخ تبدیل ارز",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Ausgabe",
+  "plural": "Ausgaben",
+  "fa": "هزینه",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Budget",
+  "plural": "Budgets",
+  "fa": "بودجه",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Ersparnis",
+  "plural": "Ersparnisse",
+  "fa": "پس‌انداز",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bankautomat",
+  "plural": "Bankautomaten",
+  "fa": "خودپرداز",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "PIN",
+  "plural": "PINs",
+  "fa": "رمز کارت",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Rate",
+  "plural": "Raten",
+  "fa": "قسط",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Miete",
+  "plural": "Mieten",
+  "fa": "اجاره",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Kaution",
+  "plural": "Kautionen",
+  "fa": "ودیعه",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Bürgschaft",
+  "plural": "Bürgschaften",
+  "fa": "ضمانت",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Anwalt",
+  "plural": "Anwälte",
+  "fa": "وکیل (مرد)",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Anwältin",
+  "plural": "Anwältinnen",
+  "fa": "وکیل (زن)",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Urteil",
+  "plural": "Urteile",
+  "fa": "حکم",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Prozess",
+  "plural": "Prozesse",
+  "fa": "دادرسی؛ دعوا",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Wahl",
+  "plural": "Wahlen",
+  "fa": "انتخابات",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Regierung",
+  "plural": "Regierungen",
+  "fa": "دولت",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bürgermeister",
+  "plural": "Bürgermeister",
+  "fa": "شهردار",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Staat",
+  "plural": "Staaten",
+  "fa": "کشور؛ دولت",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Antragsteller",
+  "plural": "Antragsteller",
+  "fa": "متقاضی",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Integration",
+  "plural": "-",
+  "fa": "ادغام در جامعه",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Integrationskurs",
+  "plural": "Integrationskurse",
+  "fa": "دوره‌ی ادغام (زبان و جامعه)",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Meinungsfreiheit",
+  "plural": "-",
+  "fa": "آزادی بیان",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Verfassung",
+  "plural": "Verfassungen",
+  "fa": "قانون اساسی",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Sportler",
+  "plural": "Sportler",
+  "fa": "ورزشکار (مرد)",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Sportlerin",
+  "plural": "Sportlerinnen",
+  "fa": "ورزشکار (زن)",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Trainer",
+  "plural": "Trainer",
+  "fa": "مربی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Mannschaft",
+  "plural": "Mannschaften",
+  "fa": "تیم",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Tor",
+  "plural": "Tore",
+  "fa": "گل؛ دروازه",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Torwart",
+  "plural": "Torwarte",
+  "fa": "دروازه‌بان",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Spiel",
+  "plural": "Spiele",
+  "fa": "بازی؛ مسابقه",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Unentschieden",
+  "plural": "Unentschieden",
+  "fa": "مساوی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Pokal",
+  "plural": "Pokale",
+  "fa": "جام",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Medaille",
+  "plural": "Medaillen",
+  "fa": "مدال",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Fan",
+  "plural": "Fans",
+  "fa": "هوادار",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Wandern",
+  "plural": "-",
+  "fa": "کوه‌پیمایی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Klettern",
+  "plural": "-",
+  "fa": "صخره‌نوردی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Yoga",
+  "plural": "-",
+  "fa": "یوگا",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Speicher",
+  "plural": "Speicher",
+  "fa": "حافظه؛ فضای ذخیره",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bildschirmschoner",
+  "plural": "Bildschirmschoner",
+  "fa": "محافظ صفحه",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Link",
+  "plural": "Links",
+  "fa": "لینک",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Router",
+  "plural": "Router",
+  "fa": "مودم؛ روتر",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Verbindung",
+  "plural": "Verbindungen",
+  "fa": "اتصال",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Akku-Ladestand",
+  "plural": "-",
+  "fa": "میزان شارژ",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Smartphone-Bildschirm",
+  "plural": "-",
+  "fa": "صفحه‌ی گوشی",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Drohne",
+  "plural": "Drohnen",
+  "fa": "پهپاد",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "künstliche Intelligenz",
+  "plural": "-",
+  "fa": "هوش مصنوعی",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Algorithmus",
+  "plural": "Algorithmen",
+  "fa": "الگوریتم",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Datenschutz",
+  "plural": "-",
+  "fa": "حفاظت از داده‌ها",
+  "category": "وسایل و فناوری",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "freundlich",
+  "plural": "-",
+  "fa": "دوستانه؛ مهربان",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "fleißig",
+  "plural": "-",
+  "fa": "پرتلاش؛ کوشا",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ängstlich",
+  "plural": "-",
+  "fa": "ترسو؛ نگران",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "bescheiden",
+  "plural": "-",
+  "fa": "فروتن",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "stolz",
+  "plural": "-",
+  "fa": "مغرور؛ سربلند",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "offen",
+  "plural": "-",
+  "fa": "روراست؛ باز",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ruhig",
+  "plural": "-",
+  "fa": "آرام",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "zuverlässig",
+  "plural": "-",
+  "fa": "قابل‌اعتماد",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "klug",
+  "plural": "-",
+  "fa": "زیرک؛ باهوش",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "dumm",
+  "plural": "-",
+  "fa": "احمق؛ نادان",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "witzig",
+  "plural": "-",
+  "fa": "بامزه؛ بذله‌گو",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "streng",
+  "plural": "-",
+  "fa": "سخت‌گیر",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "unsympathisch",
+  "plural": "-",
+  "fa": "ناخوشایند",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "verrückt",
+  "plural": "-",
+  "fa": "دیوانه؛ خل",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "wütend",
+  "plural": "-",
+  "fa": "عصبانی",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "verliebt",
+  "plural": "-",
+  "fa": "عاشق",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "erschöpft",
+  "plural": "-",
+  "fa": "کاملاً خسته",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "gelangweilt",
+  "plural": "-",
+  "fa": "کسل",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "erleichtert",
+  "plural": "-",
+  "fa": "آسوده‌خاطر",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "verwirrt",
+  "plural": "-",
+  "fa": "گیج",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "sicher",
+  "plural": "-",
+  "fa": "مطمئن",
+  "category": "صفت",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Erkrankung",
+  "plural": "Erkrankungen",
+  "fa": "بیماری",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Befund",
+  "plural": "Befunde",
+  "fa": "نتیجه‌ی آزمایش",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Symptom",
+  "plural": "Symptome",
+  "fa": "علامت بیماری",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Nebenwirkung",
+  "plural": "Nebenwirkungen",
+  "fa": "عارضه‌ی جانبی",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Dosis",
+  "plural": "Dosen",
+  "fa": "دوز",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Röntgenaufnahme",
+  "plural": "Röntgenaufnahmen",
+  "fa": "عکس رادیولوژی",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Fieberthermometer",
+  "plural": "Fieberthermometer",
+  "fa": "دماسنج",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Gips",
+  "plural": "-",
+  "fa": "گچ (شکستگی)",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Krücke",
+  "plural": "Krücken",
+  "fa": "عصای زیربغل",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Blutprobe",
+  "plural": "Blutproben",
+  "fa": "آزمایش خون",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Infekt",
+  "plural": "Infekte",
+  "fa": "عفونت",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Verletzung",
+  "plural": "Verletzungen",
+  "fa": "جراحت",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Hausarzt",
+  "plural": "Hausärzte",
+  "fa": "پزشک خانواده",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Überweisung",
+  "plural": "Überweisungen",
+  "fa": "ارجاع پزشکی",
+  "category": "پزشکی و بیماری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Studium",
+  "plural": "Studien",
+  "fa": "تحصیلات دانشگاهی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Vorlesung",
+  "plural": "Vorlesungen",
+  "fa": "درس دانشگاهی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Professor",
+  "plural": "Professoren",
+  "fa": "استاد",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Professorin",
+  "plural": "Professorinnen",
+  "fa": "استاد (زن)",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Hausarbeit",
+  "plural": "Hausarbeiten",
+  "fa": "تکلیف نوشتاری",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Bewerbungsfrist",
+  "plural": "Bewerbungsfristen",
+  "fa": "مهلت ثبت‌نام",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Zulassung",
+  "plural": "Zulassungen",
+  "fa": "پذیرش",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Diplom",
+  "plural": "Diplome",
+  "fa": "دیپلم",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bachelor",
+  "plural": "Bachelors",
+  "fa": "لیسانس",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Master",
+  "plural": "Master",
+  "fa": "فوق‌لیسانس",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Doktorarbeit",
+  "plural": "Doktorarbeiten",
+  "fa": "رساله‌ی دکتری",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Stundenplan",
+  "plural": "Stundenpläne",
+  "fa": "برنامه‌ی کلاسی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Klausur",
+  "plural": "Klausuren",
+  "fa": "آزمون کتبی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Referat",
+  "plural": "Referate",
+  "fa": "ارائه‌ی کلاسی",
+  "category": "دانشگاه و آموزش",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "fleißig",
+  "plural": "-",
+  "fa": "کوشا",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "klug",
+  "plural": "-",
+  "fa": "عاقل؛ زیرک",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "hilfsbereit",
+  "plural": "-",
+  "fa": "کمک‌رسان",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "geizig",
+  "plural": "-",
+  "fa": "خسیس",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "nervös",
+  "plural": "-",
+  "fa": "عصبی",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "gelassen",
+  "plural": "-",
+  "fa": "خونسرد",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "lebhaft",
+  "plural": "-",
+  "fa": "پرانرژی",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "humorvoll",
+  "plural": "-",
+  "fa": "شوخ‌طبع",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "ordentlich",
+  "plural": "-",
+  "fa": "مرتب",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "",
+  "word": "unordentlich",
+  "plural": "-",
+  "fa": "نامرتب",
+  "category": "شخصیت و رفتار",
+  "type": "word",
+  "tag": "صفت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Festplatte",
+  "plural": "Festplatten",
+  "fa": "هارد دیسک",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Konto",
+  "plural": "Konten",
+  "fa": "حساب کاربری",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Server",
+  "plural": "Server",
+  "fa": "سرور",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Cloud",
+  "plural": "Clouds",
+  "fa": "ابر (ذخیره‌سازی ابری)",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Chat",
+  "plural": "Chats",
+  "fa": "گفت‌وگو (چت)",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Videokonferenz",
+  "plural": "Videokonferenzen",
+  "fa": "ویدیوکنفرانس",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Datenschutz",
+  "plural": "-",
+  "fa": "حفظ حریم داده",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Virus",
+  "plural": "Viren",
+  "fa": "ویروس رایانه‌ای",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Absturz",
+  "plural": "Abstürze",
+  "fa": "کرش (از کار افتادن)",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Fehlermeldung",
+  "plural": "Fehlermeldungen",
+  "fa": "پیام خطا",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Taste",
+  "plural": "Tasten",
+  "fa": "کلید (دکمه)",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Klick",
+  "plural": "Klicks",
+  "fa": "کلیک",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Sicherheit",
+  "plural": "-",
+  "fa": "امنیت",
+  "category": "کامپیوتر و اینترنت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Pflicht",
+  "plural": "Pflichten",
+  "fa": "وظیفه",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Regierung",
+  "plural": "Regierungen",
+  "fa": "حکومت",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Bundeskanzler",
+  "plural": "Bundeskanzler",
+  "fa": "صدراعظم",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Bürgerin",
+  "plural": "Bürgerinnen",
+  "fa": "شهروند (زن)",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Parlament",
+  "plural": "Parlamente",
+  "fa": "پارلمان",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Prozess",
+  "plural": "Prozesse",
+  "fa": "دادرسی؛ فرایند",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Zeuge",
+  "plural": "Zeugen",
+  "fa": "شاهد",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Verbrechen",
+  "plural": "Verbrechen",
+  "fa": "جنایت",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Täter",
+  "plural": "Täter",
+  "fa": "مجرم",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Opfer",
+  "plural": "Opfer",
+  "fa": "قربانی",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Polizist",
+  "plural": "Polizisten",
+  "fa": "پلیس (مرد)",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Staatsbürgerschaft",
+  "plural": "Staatsbürgerschaften",
+  "fa": "تابعیت",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Konsulat",
+  "plural": "Konsulate",
+  "fa": "کنسولگری",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Botschaft",
+  "plural": "Botschaften",
+  "fa": "سفارت",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Demonstration",
+  "plural": "Demonstrationen",
+  "fa": "تظاهرات",
+  "category": "حقوق و دولت",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Meisterschaft",
+  "plural": "Meisterschaften",
+  "fa": "قهرمانی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Muskel",
+  "plural": "Muskeln",
+  "fa": "ماهیچه",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Kondition",
+  "plural": "-",
+  "fa": "آمادگی بدنی",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Schlittschuh",
+  "plural": "Schlittschuhe",
+  "fa": "اسکیت روی یخ",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Turnier",
+  "plural": "Turniere",
+  "fa": "مسابقات (تورنمنت)",
+  "category": "سرگرمی و ورزش",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Luftverschmutzung",
+  "plural": "-",
+  "fa": "آلودگی هوا",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Erderwärmung",
+  "plural": "-",
+  "fa": "گرمایش زمین",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Treibhauseffekt",
+  "plural": "-",
+  "fa": "اثر گلخانه‌ای",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Sonnenenergie",
+  "plural": "-",
+  "fa": "انرژی خورشیدی",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Windkraft",
+  "plural": "-",
+  "fa": "انرژی باد",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Kraftwerk",
+  "plural": "Kraftwerke",
+  "fa": "نیروگاه",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Abgas",
+  "plural": "Abgase",
+  "fa": "گاز خروجی",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Erdöl",
+  "plural": "-",
+  "fa": "نفت",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Erdgas",
+  "plural": "-",
+  "fa": "گاز طبیعی",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Kohle",
+  "plural": "Kohlen",
+  "fa": "زغال‌سنگ",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Naturschutzgebiet",
+  "plural": "Naturschutzgebiete",
+  "fa": "منطقه‌ی حفاظت‌شده",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "das",
+  "word": "Erdbeben",
+  "plural": "Erdbeben",
+  "fa": "زمین‌لرزه",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Vulkan",
+  "plural": "Vulkane",
+  "fa": "آتشفشان",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Ressource",
+  "plural": "Ressourcen",
+  "fa": "منبع",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Verbrauch",
+  "plural": "-",
+  "fa": "مصرف",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Nachhaltigkeit",
+  "plural": "-",
+  "fa": "پایداری",
+  "category": "محیط شهری",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Bankleitzahl",
+  "plural": "Bankleitzahlen",
+  "fa": "کد بانک",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Schulden",
+  "plural": "Schulden",
+  "fa": "بدهی‌ها",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Zins",
+  "plural": "Zinsen",
+  "fa": "بهره",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Kontoauszug",
+  "plural": "Kontoauszüge",
+  "fa": "صورت‌حساب بانکی",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Dauerauftrag",
+  "plural": "Daueraufträge",
+  "fa": "پرداخت خودکار",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Gewinn",
+  "plural": "Gewinne",
+  "fa": "سود",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Verlust",
+  "plural": "Verluste",
+  "fa": "زیان",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "der",
+  "word": "Betrag",
+  "plural": "Beträge",
+  "fa": "مبلغ",
+  "category": "بانک و مالی",
+  "level": "B1"
+ },
+ {
+  "article": "die",
+  "word": "Aktie",
+  "plural": "Aktien",
+  "fa": "سهام",
+  "category": "بانک و مالی",
+  "level": "B1"
  }
 ]
